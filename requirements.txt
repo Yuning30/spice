@@ -14,7 +14,7 @@ importlib-metadata==4.12.0
 joblib==1.2.0
 Markdown==3.4.1
 MarkupSafe==2.1.1
-numpy==1.23.3
+numpy
 oauthlib==3.2.1
 pkg_resources==0.0.0
 protobuf==3.19.5

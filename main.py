@@ -128,9 +128,8 @@ for i_episode in itertools.count(1):
             cost = 0
             if env.unsafe(next_state):
                 total_unsafe_episodes += 1
-                episode_reward -= 1000
+                # episode_reward -= 1000
                 print("UNSAFE (outside testing)")
-                done = True
                 cost = 1
 
             # Ignore the "done" signal if it comes from hitting the time
@@ -141,8 +140,8 @@ for i_episode in itertools.count(1):
 
             tmp_buffer.append((state, action, reward, next_state, mask, cost))
 
-            if env.unsafe(next_state):
-                episode_reward -= 10000
+            # if env.unsafe(next_state):
+            #     episode_reward -= 10000
 
             # Don't add states to the training data if they hit the edge of
             # the state space, this seems to cause problems for the regression.
@@ -196,7 +195,7 @@ for i_episode in itertools.count(1):
                                       updates)
                     updates += 1
 
-            next_state, reward = env_model(state, action,
+            next_state, _ = env_model(state, action,
                                            use_neural_model=False)
             done = not np.all(np.abs(next_state) < 1e5) and \
                 not np.any(np.isnan(next_state))
@@ -205,13 +204,13 @@ for i_episode in itertools.count(1):
                 not np.all(np.abs(next_state) < 1e5)
             episode_steps += 1
             total_numsteps += 1
-            episode_reward += reward
+
+            true_reward = env.true_reward()
+            episode_reward += true_reward
 
             cost = 0
             if env.unsafe(next_state):
                 total_unsafe_episodes += 1
-                episode_reward -= 1000
-                done = True
                 cost = 1
 
             # Ignore the "done" signal if it comes from hitting the time
@@ -220,7 +219,7 @@ for i_episode in itertools.count(1):
             mask = 1 if episode_steps == env._max_episode_steps \
                 else float(not done)
 
-            agent.add(state, action, reward, next_state, mask, cost)
+            agent.add(state, action, true_reward, next_state, mask, cost)
 
             state = next_state
 
@@ -285,7 +284,6 @@ for i_episode in itertools.count(1):
                     print("UNSAFE")
                     print(state, action, next_state)
                     unsafe_episodes += 1
-                    done = True
                 if done:
                     try:
                         s, a, t = safe_agent.report()

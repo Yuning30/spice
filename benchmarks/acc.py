@@ -49,13 +49,17 @@ class AccEnv(gym.Env):
                 np.asarray([x, v]),
                 self.observation_space.low,
                 self.observation_space.high)
-        reward = 2.0 + x if x < 0 else -10
-        done = bool(x >= 0) or self.steps > self._max_episode_steps
+        reward = 2.0 + x if x < 0 else -10 - x
+        done = self.steps > self._max_episode_steps
         self.steps += 1
         return self.state, reward, done, {}
 
     def predict_done(self, state: np.ndarray) -> bool:
-        return state[0] >= 0
+        return False
+
+    def true_reward(self) -> float:
+        x = self.state[0]
+        return 2.0 + x if x < 0 else -10 - x
 
     def seed(self, seed: int):
         self.action_space.seed(seed)
