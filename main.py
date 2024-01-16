@@ -86,6 +86,8 @@ total_episodes = 0
 cost_model = None
 
 for i_episode in itertools.count(1):
+    if i_episode > 400:
+        break
     total_episodes = i_episode
     episode_reward = 0
     episode_steps = 0
@@ -197,12 +199,14 @@ for i_episode in itertools.count(1):
 
             next_state, _ = env_model(state, action,
                                            use_neural_model=False)
+            episode_steps += 1
+
             done = not np.all(np.abs(next_state) < 1e5) and \
                 not np.any(np.isnan(next_state))
             done = done or env.predict_done(next_state)
             done = done or episode_steps == env._max_episode_steps or \
                 not np.all(np.abs(next_state) < 1e5)
-            episode_steps += 1
+
             total_numsteps += 1
 
             true_reward = env.true_reward()

@@ -50,8 +50,9 @@ class AccEnv(gym.Env):
                 self.observation_space.low,
                 self.observation_space.high)
         reward = 2.0 + x if x < 0 else -10 - x
-        done = self.steps > self._max_episode_steps
+
         self.steps += 1
+        done = self.steps >= self._max_episode_steps
         return self.state, reward, done, {}
 
     def predict_done(self, state: np.ndarray) -> bool:
