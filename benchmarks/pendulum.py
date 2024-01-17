@@ -52,13 +52,22 @@ class PendulumEnv(gym.Env):
                 self.observation_space.low,
                 self.observation_space.high)
         reward = -abs(theta)
-        done = bool(abs(theta) >= 0.4) or \
-            self.steps >= self._max_episode_steps or self.unsafe(self.state)
+        if self.unsafe(self.state):
+            reward -= 20
         self.steps += 1
+        done = self.steps >= self._max_episode_steps
+
         return self.state, reward, done, {}
 
     def predict_done(self, state: np.ndarray) -> bool:
-        return abs(state[0]) >= 0.4
+        return False
+        # return abs(state[0]) >= 0.4
+
+    def true_reward(self, state):
+        reward = -abs(state[0])
+        if self.unsafe(state):
+            reward -= 20
+        return reward
 
     def seed(self, seed: int):
         self.action_space.seed(seed)
@@ -66,4 +75,4 @@ class PendulumEnv(gym.Env):
         self.init_space.seed(seed)
 
     def unsafe(self, state: np.ndarray) -> bool:
-        return abs(self.state[0]) >= 0.4
+        return abs(state[0]) >= 0.4

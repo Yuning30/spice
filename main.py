@@ -209,7 +209,7 @@ for i_episode in itertools.count(1):
 
             total_numsteps += 1
 
-            true_reward = env.true_reward()
+            true_reward = env.true_reward(next_state)
             episode_reward += true_reward
 
             cost = 0

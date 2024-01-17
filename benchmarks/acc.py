@@ -58,8 +58,8 @@ class AccEnv(gym.Env):
     def predict_done(self, state: np.ndarray) -> bool:
         return False
 
-    def true_reward(self) -> float:
-        x = self.state[0]
+    def true_reward(self, state) -> float:
+        x = state[0]
         return 2.0 + x if x < 0 else -10 - x
 
     def seed(self, seed: int):

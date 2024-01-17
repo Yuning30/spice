@@ -1,0 +1,4814 @@
+Arguments:
+Namespace(alpha=0.2, automatic_entropy_tuning=False, batch_size=256, cuda=False, env_name='pendulum', eval=True, gamma=0.99, hidden_size=256, horizon=5, lr=0.0003, neural_safety=False, neural_threshold=0.1, num_steps=10000000, policy='Gaussian', replay_size=1000000, seed=1, start_steps=800, target_update_interval=1, tau=0.005, updates_per_step=1)
+1 : Real data
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+Episode: 1, total numsteps: 100, episode steps: 100, reward: -131.46
+2 : Real data
+Episode: 2, total numsteps: 200, episode steps: 100, reward: -3.07
+3 : Real data
+Episode: 3, total numsteps: 300, episode steps: 100, reward: -7.68
+4 : Real data
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+Episode: 4, total numsteps: 400, episode steps: 100, reward: -565.06
+5 : Real data
+Episode: 5, total numsteps: 500, episode steps: 100, reward: -2.53
+6 : Real data
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+Episode: 6, total numsteps: 600, episode steps: 100, reward: -339.58
+7 : Real data
+Episode: 7, total numsteps: 700, episode steps: 100, reward: -12.72
+8 : Real data
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+Episode: 8, total numsteps: 800, episode steps: 100, reward: -340.86
+9 : Real data
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+State stats: [-0.06664154 -0.09807349] [0.16905028 0.29131175]
+Action stats: [0.02673993] [0.58026093]
+Reward stats: -10.987483226734408 10.212958413137487
+Computed error: 0.02884565776382841 ( 0.007385997500934938 0.021459660262893473 )
+Epoch: 0 tensor(0.0126)
+Epoch: 1 tensor(0.0085)
+Epoch: 2 tensor(0.0043)
+Epoch: 3 tensor(0.0019)
+Epoch: 4 tensor(0.0008)
+Epoch: 5 tensor(0.0004)
+Epoch: 6 tensor(0.0003)
+Epoch: 7 tensor(0.0003)
+Epoch: 8 tensor(0.0003)
+Epoch: 9 tensor(0.0003)
+Epoch: 10 tensor(0.0002)
+Epoch: 11 tensor(0.0002)
+Epoch: 12 tensor(0.0002)
+Epoch: 13 tensor(0.0002)
+Epoch: 14 tensor(0.0002)
+Epoch: 15 tensor(0.0002)
+Epoch: 16 tensor(0.0002)
+Epoch: 17 tensor(0.0002)
+Epoch: 18 tensor(0.0002)
+Epoch: 19 tensor(0.0002)
+Epoch: 20 tensor(0.0002)
+Epoch: 21 tensor(0.0002)
+Epoch: 22 tensor(0.0002)
+Epoch: 23 tensor(0.0002)
+Epoch: 24 tensor(0.0002)
+Epoch: 25 tensor(0.0002)
+Epoch: 26 tensor(0.0002)
+Epoch: 27 tensor(0.0002)
+Epoch: 28 tensor(0.0002)
+Epoch: 29 tensor(0.0002)
+Epoch: 30 tensor(0.0002)
+Epoch: 31 tensor(0.0002)
+Epoch: 32 tensor(0.0002)
+Epoch: 33 tensor(0.0002)
+Epoch: 34 tensor(0.0002)
+Epoch: 35 tensor(0.0002)
+Epoch: 36 tensor(0.0002)
+Epoch: 37 tensor(0.0002)
+Epoch: 38 tensor(0.0002)
+Epoch: 39 tensor(0.0002)
+Epoch: 40 tensor(0.0002)
+Epoch: 41 tensor(0.0002)
+Epoch: 42 tensor(0.0001)
+Epoch: 43 tensor(0.0001)
+Epoch: 44 tensor(0.0001)
+Epoch: 45 tensor(0.0001)
+Epoch: 46 tensor(0.0001)
+Epoch: 47 tensor(0.0001)
+Epoch: 48 tensor(0.0001)
+Epoch: 49 tensor(0.0001)
+Epoch: 50 tensor(0.0001)
+Epoch: 51 tensor(0.0001)
+Epoch: 52 tensor(0.0001)
+Epoch: 53 tensor(0.0001)
+Epoch: 54 tensor(0.0001)
+Epoch: 55 tensor(0.0001)
+Epoch: 56 tensor(0.0001)
+Epoch: 57 tensor(0.0001)
+Epoch: 58 tensor(0.0001)
+Epoch: 59 tensor(0.0001)
+Epoch: 60 tensor(0.0001)
+Epoch: 61 tensor(0.0001)
+Epoch: 62 tensor(0.0001)
+Epoch: 63 tensor(0.0001)
+Epoch: 64 tensor(0.0001)
+Epoch: 65 tensor(0.0001)
+Epoch: 66 tensor(0.0001)
+Epoch: 67 tensor(0.0001)
+Epoch: 68 tensor(0.0001)
+Epoch: 69 tensor(0.0001)
+Epoch: 70 tensor(0.0001)
+Epoch: 71 tensor(0.0001)
+Epoch: 72 tensor(0.0001)
+Epoch: 73 tensor(0.0001)
+Epoch: 74 tensor(0.0001)
+Epoch: 75 tensor(0.0001)
+Epoch: 76 tensor(0.0001)
+Epoch: 77 tensor(0.0001)
+Epoch: 78 tensor(0.0001)
+Epoch: 79 tensor(0.0001)
+Epoch: 80 tensor(0.0001)
+Epoch: 81 tensor(0.0001)
+Epoch: 82 tensor(0.0001)
+Epoch: 83 tensor(0.0001)
+Epoch: 84 tensor(0.0001)
+Epoch: 85 tensor(0.0001)
+Epoch: 86 tensor(0.0001)
+Epoch: 87 tensor(0.0001)
+Epoch: 88 tensor(0.0001)
+Epoch: 89 tensor(0.0001)
+Epoch: 90 tensor(0.0001)
+Epoch: 91 tensor(0.0001)
+Epoch: 92 tensor(0.0001)
+Epoch: 93 tensor(0.0001)
+Epoch: 94 tensor(0.0001)
+Epoch: 95 tensor(0.0001)
+Epoch: 96 tensor(0.0001)
+Epoch: 97 tensor(0.0001)
+Epoch: 98 tensor(0.0001)
+Epoch: 99 tensor(0.0001)
+Epoch: 0 tensor(0.5009)
+Epoch: 1 tensor(0.4946)
+Epoch: 2 tensor(0.4908)
+Epoch: 3 tensor(0.4867)
+Epoch: 4 tensor(0.4825)
+Epoch: 5 tensor(0.4786)
+Epoch: 6 tensor(0.4770)
+Epoch: 7 tensor(0.4749)
+Epoch: 8 tensor(0.4724)
+Epoch: 9 tensor(0.4693)
+Epoch: 10 tensor(0.4705)
+Epoch: 11 tensor(0.4687)
+Epoch: 12 tensor(0.4674)
+Epoch: 13 tensor(0.4650)
+Epoch: 14 tensor(0.4647)
+Epoch: 15 tensor(0.4645)
+Epoch: 16 tensor(0.4605)
+Epoch: 17 tensor(0.4635)
+Epoch: 18 tensor(0.4629)
+Epoch: 19 tensor(0.4657)
+Epoch: 20 tensor(0.4641)
+Epoch: 21 tensor(0.4622)
+Epoch: 22 tensor(0.4629)
+Epoch: 23 tensor(0.4604)
+Epoch: 24 tensor(0.4621)
+Epoch: 25 tensor(0.4601)
+Epoch: 26 tensor(0.4603)
+Epoch: 27 tensor(0.4600)
+Epoch: 28 tensor(0.4591)
+Epoch: 29 tensor(0.4605)
+Epoch: 30 tensor(0.4579)
+Epoch: 31 tensor(0.4585)
+Epoch: 32 tensor(0.4584)
+Epoch: 33 tensor(0.4557)
+Epoch: 34 tensor(0.4564)
+Epoch: 35 tensor(0.4586)
+Epoch: 36 tensor(0.4599)
+Epoch: 37 tensor(0.4569)
+Epoch: 38 tensor(0.4557)
+Epoch: 39 tensor(0.4565)
+Epoch: 40 tensor(0.4573)
+Epoch: 41 tensor(0.4565)
+Epoch: 42 tensor(0.4576)
+Epoch: 43 tensor(0.4558)
+Epoch: 44 tensor(0.4537)
+Epoch: 45 tensor(0.4565)
+Epoch: 46 tensor(0.4518)
+Epoch: 47 tensor(0.4547)
+Epoch: 48 tensor(0.4560)
+Epoch: 49 tensor(0.4545)
+Epoch: 50 tensor(0.4520)
+Epoch: 51 tensor(0.4495)
+Epoch: 52 tensor(0.4537)
+Epoch: 53 tensor(0.4537)
+Epoch: 54 tensor(0.4535)
+Epoch: 55 tensor(0.4537)
+Epoch: 56 tensor(0.4509)
+Epoch: 57 tensor(0.4545)
+Epoch: 58 tensor(0.4515)
+Epoch: 59 tensor(0.4514)
+Epoch: 60 tensor(0.4531)
+Epoch: 61 tensor(0.4480)
+Epoch: 62 tensor(0.4505)
+Epoch: 63 tensor(0.4504)
+Epoch: 64 tensor(0.4503)
+Epoch: 65 tensor(0.4511)
+Epoch: 66 tensor(0.4545)
+Epoch: 67 tensor(0.4503)
+Epoch: 68 tensor(0.4482)
+Epoch: 69 tensor(0.4503)
+Epoch: 70 tensor(0.4490)
+Epoch: 71 tensor(0.4502)
+Epoch: 72 tensor(0.4484)
+Epoch: 73 tensor(0.4489)
+Epoch: 74 tensor(0.4469)
+Epoch: 75 tensor(0.4477)
+Epoch: 76 tensor(0.4506)
+Epoch: 77 tensor(0.4466)
+Epoch: 78 tensor(0.4495)
+Epoch: 79 tensor(0.4472)
+Epoch: 80 tensor(0.4463)
+Epoch: 81 tensor(0.4449)
+Epoch: 82 tensor(0.4489)
+Epoch: 83 tensor(0.4450)
+Epoch: 84 tensor(0.4477)
+Epoch: 85 tensor(0.4464)
+Epoch: 86 tensor(0.4463)
+Epoch: 87 tensor(0.4433)
+Epoch: 88 tensor(0.4441)
+Epoch: 89 tensor(0.4433)
+Epoch: 90 tensor(0.4464)
+Epoch: 91 tensor(0.4413)
+Epoch: 92 tensor(0.4474)
+Epoch: 93 tensor(0.4444)
+Epoch: 94 tensor(0.4420)
+Epoch: 95 tensor(0.4437)
+Epoch: 96 tensor(0.4412)
+Epoch: 97 tensor(0.4424)
+Epoch: 98 tensor(0.4402)
+Epoch: 99 tensor(0.4401)
+Earth Model
+-------------------------------------------------------
+Basis Function   Pruned  Coefficient 0  Coefficient 1  
+-------------------------------------------------------
+(Intercept)      No      -0.0452336     -0.981883      
+h(x1+0.975807)   No      0.0344645      1.00045        
+h(-0.975807-x1)  No      -0.0344645     -0.998394      
+x0               No      1              0.0276581      
+x2               No      3.05895e-17    0.119508       
+-------------------------------------------------------
+MSE: 0.0000, GCV: 0.0000, RSQ: 1.0000, GRSQ: 1.0000
+Basis:
+1.0
+h(x1 - -0.9758068738482649)
+h(-0.9758068738482649 - x1)
+x0
+x2
+Coeffs:
+[[-0.04523358389535465, 0.03446450949373317, -0.0344645094937322, 0.9999999999999994, 3.05894513128922e-17], [-0.9818832302590894, 1.0004503965009044, -0.9983937047708221, 0.027658115703803433, 0.11950811257255312]]
+Model MSE: 2.4075741010145493e-07
+Earth Model
+--------------------------------------
+Basis Function   Pruned  Coefficient  
+--------------------------------------
+(Intercept)      No      0.12999      
+h(x1-0.766503)   No      -2.15598     
+h(0.766503-x1)   Yes     None         
+h(x0-0.0311937)  Yes     None         
+h(0.0311937-x0)  Yes     None         
+h(x0-0.656421)   Yes     None         
+h(0.656421-x0)   No      -3.24566     
+h(x0+0.980775)   Yes     None         
+h(-0.980775-x0)  Yes     None         
+h(x1-1.43728)    No      1.75754      
+h(1.43728-x1)    Yes     None         
+h(x0-0.323287)   Yes     None         
+h(0.323287-x0)   No      3.2371       
+h(x0+1.97891)    No      1.31313      
+h(-1.97891-x0)   Yes     None         
+h(x0+1.3461)     No      -1.31768     
+h(-1.3461-x0)    Yes     None         
+h(x1-1.13879)    Yes     None         
+h(1.13879-x1)    Yes     None         
+x2               Yes     None         
+--------------------------------------
+MSE: 0.7880, GCV: 0.8070, RSQ: 0.2120, GRSQ: 0.1949
+Episode: 9, total numsteps: 900, episode steps: 100, reward: -772.86
+starting testing...
+UNSAFE
+[-0.3984658  -0.69210988] [1.] [-0.412308   -0.65114152]
+UNSAFE
+[-0.412308   -0.65114152] [1.] [-0.42533083 -0.61079708]
+UNSAFE
+[-0.42533083 -0.61079708] [-1.] [-0.43754677 -0.69103619]
+UNSAFE
+[-0.43754677 -0.69103619] [1.] [-0.4513675  -0.65181959]
+UNSAFE
+[-0.4513675  -0.65181959] [1.] [-0.46440389 -0.61321503]
+UNSAFE
+[-0.46440389 -0.61321503] [1.] [-0.47666819 -0.57518403]
+UNSAFE
+[-0.47666819 -0.57518403] [1.] [-0.48817187 -0.53768922]
+UNSAFE
+[-0.48817187 -0.53768922] [1.] [-0.49892566 -0.50069426]
+UNSAFE
+[-0.49892566 -0.50069426] [1.] [-0.50893954 -0.46416382]
+UNSAFE
+[-0.50893954 -0.46416382] [1.] [-0.51822282 -0.42806351]
+UNSAFE
+[-0.51822282 -0.42806351] [1.] [-0.52678409 -0.39235979]
+UNSAFE
+[-0.52678409 -0.39235979] [1.] [-0.53463128 -0.35701997]
+UNSAFE
+[-0.53463128 -0.35701997] [1.] [-0.54177168 -0.32201212]
+UNSAFE
+[-0.54177168 -0.32201212] [1.] [-0.54821192 -0.28730498]
+UNSAFE
+[-0.54821192 -0.28730498] [1.] [-0.55395802 -0.25286798]
+UNSAFE
+[-0.55395802 -0.25286798] [1.] [-0.55901538 -0.2186711 ]
+UNSAFE
+[-0.55901538 -0.2186711 ] [1.] [-0.56338881 -0.18468485]
+UNSAFE
+[-0.56338881 -0.18468485] [1.] [-0.5670825  -0.15088021]
+UNSAFE
+[-0.5670825  -0.15088021] [1.] [-0.57010011 -0.11722857]
+UNSAFE
+[-0.57010011 -0.11722857] [1.] [-0.57244468 -0.08370166]
+UNSAFE
+[-0.57244468 -0.08370166] [1.] [-0.57411871 -0.05027149]
+UNSAFE
+[-0.57411871 -0.05027149] [1.] [-0.57512414 -0.0169103 ]
+UNSAFE
+[-0.57512414 -0.0169103 ] [1.] [-0.57546235  0.0164095 ]
+UNSAFE
+[-0.57546235  0.0164095 ] [1.] [-0.57513416  0.04971537]
+UNSAFE
+[-0.57513416  0.04971537] [1.] [-0.57413985  0.08303475]
+UNSAFE
+[-0.57413985  0.08303475] [1.] [-0.57247915  0.11639507]
+UNSAFE
+[-0.57247915  0.11639507] [1.] [-0.57015125  0.14982383]
+UNSAFE
+[-0.57015125  0.14982383] [1.] [-0.56715478  0.18334863]
+UNSAFE
+[-0.56715478  0.18334863] [1.] [-0.5634878   0.21699728]
+UNSAFE
+[-0.5634878   0.21699728] [1.] [-0.55914786  0.25079781]
+UNSAFE
+[-0.55914786  0.25079781] [1.] [-0.5541319   0.28477855]
+UNSAFE
+[-0.5541319   0.28477855] [1.] [-0.54843633  0.31896818]
+UNSAFE
+[-0.54843633  0.31896818] [1.] [-0.54205697  0.35339579]
+UNSAFE
+[-0.54205697  0.35339579] [1.] [-0.53498905  0.38809093]
+UNSAFE
+[-0.53498905  0.38809093] [1.] [-0.52722723  0.42308369]
+UNSAFE
+[-0.52722723  0.42308369] [1.] [-0.51876556  0.45840472]
+UNSAFE
+[-0.51876556  0.45840472] [1.] [-0.50959747  0.49408531]
+UNSAFE
+[-0.50959747  0.49408531] [1.] [-0.49971576  0.53015745]
+UNSAFE
+[-0.49971576  0.53015745] [1.] [-0.48911261  0.56665387]
+UNSAFE
+[-0.48911261  0.56665387] [1.] [-0.47777953  0.60360808]
+UNSAFE
+[-0.47777953  0.60360808] [1.] [-0.46570737  0.64105447]
+UNSAFE
+[-0.46570737  0.64105447] [1.] [-0.45288628  0.67902833]
+UNSAFE
+[-0.45288628  0.67902833] [1.] [-0.43930572  0.71756588]
+UNSAFE
+[-0.43930572  0.71756588] [1.] [-0.4249544   0.75670437]
+Finished test episode: 55 shield and 45 neural
+Average time: 0.0006075716018676758
+----------------------------------------
+Test Episodes: 1, Unsafe: 44, Avg. Length: 100.0, Avg. Reward: -908.89
+----------------------------------------
+10 : Simulated data
+10 0 900
+Episode: 10, total numsteps: 1000, episode steps: 100, reward: -864.31
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0012410736083984374
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.83
+----------------------------------------
+11 : Simulated data
+11 0 1000
+Episode: 11, total numsteps: 1100, episode steps: 100, reward: -0.72
+starting testing...
+UNSAFE
+[-0.38951802 -0.59418933] [1.] [-0.40140181 -0.5528157 ]
+UNSAFE
+[-0.40140181 -0.5528157 ] [1.] [-0.41245812 -0.51197998]
+UNSAFE
+[-0.41245812 -0.51197998] [1.] [-0.42269772 -0.47164229]
+UNSAFE
+[-0.42269772 -0.47164229] [-1.] [-0.43213057 -0.55176369]
+UNSAFE
+[-0.43213057 -0.55176369] [-1.] [-0.44316584 -0.63230615]
+UNSAFE
+[-0.44316584 -0.63230615] [1.] [-0.45581196 -0.59333887]
+UNSAFE
+[-0.45581196 -0.59333887] [1.] [-0.46767874 -0.55493026]
+UNSAFE
+[-0.46767874 -0.55493026] [1.] [-0.47877735 -0.51704276]
+Finished test episode: 16 shield and 84 neural
+Average time: 0.0012348508834838868
+----------------------------------------
+Test Episodes: 1, Unsafe: 8, Avg. Length: 100.0, Avg. Reward: -174.09
+----------------------------------------
+12 : Simulated data
+12 0 1100
+Episode: 12, total numsteps: 1200, episode steps: 100, reward: -5.7
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0010117721557617188
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.01
+----------------------------------------
+13 : Simulated data
+13 0 1200
+Episode: 13, total numsteps: 1300, episode steps: 100, reward: -4.63
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0015110325813293456
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -8.79
+----------------------------------------
+14 : Simulated data
+14 0 1300
+Episode: 14, total numsteps: 1400, episode steps: 100, reward: -7.34
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0009999561309814453
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.69
+----------------------------------------
+15 : Simulated data
+15 0 1400
+Episode: 15, total numsteps: 1500, episode steps: 100, reward: -9.07
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0012339091300964356
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -10.75
+----------------------------------------
+16 : Simulated data
+16 0 1500
+Episode: 16, total numsteps: 1600, episode steps: 100, reward: -9.97
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0015230965614318847
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -10.33
+----------------------------------------
+17 : Simulated data
+17 0 1600
+Episode: 17, total numsteps: 1700, episode steps: 100, reward: -8.42
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0013942122459411621
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -11.66
+----------------------------------------
+18 : Simulated data
+18 0 1700
+Episode: 18, total numsteps: 1800, episode steps: 100, reward: -11.76
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0014712643623352051
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -10.25
+----------------------------------------
+19 : Simulated data
+19 0 1800
+Episode: 19, total numsteps: 1900, episode steps: 100, reward: -9.6
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0014272642135620117
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -4.76
+----------------------------------------
+20 : Simulated data
+20 0 1900
+Episode: 20, total numsteps: 2000, episode steps: 100, reward: -10.18
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0010466599464416504
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -8.32
+----------------------------------------
+21 : Simulated data
+21 0 2000
+Episode: 21, total numsteps: 2100, episode steps: 100, reward: -8.85
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001234130859375
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -7.44
+----------------------------------------
+22 : Simulated data
+22 0 2100
+Episode: 22, total numsteps: 2200, episode steps: 100, reward: -9.31
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0014287161827087403
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -11.04
+----------------------------------------
+23 : Simulated data
+23 0 2200
+Episode: 23, total numsteps: 2300, episode steps: 100, reward: -9.79
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0013091087341308594
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -10.61
+----------------------------------------
+24 : Simulated data
+24 0 2300
+Episode: 24, total numsteps: 2400, episode steps: 100, reward: -7.97
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0013195419311523438
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -6.36
+----------------------------------------
+25 : Simulated data
+25 0 2400
+Episode: 25, total numsteps: 2500, episode steps: 100, reward: -7.5
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001219947338104248
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -8.84
+----------------------------------------
+26 : Simulated data
+26 0 2500
+Episode: 26, total numsteps: 2600, episode steps: 100, reward: -10.23
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001112053394317627
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -9.08
+----------------------------------------
+27 : Simulated data
+27 0 2600
+Episode: 27, total numsteps: 2700, episode steps: 100, reward: -8.96
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001155390739440918
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -8.05
+----------------------------------------
+28 : Simulated data
+28 0 2700
+Episode: 28, total numsteps: 2800, episode steps: 100, reward: -8.59
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0014931154251098633
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -11.72
+----------------------------------------
+29 : Simulated data
+29 0 2800
+Episode: 29, total numsteps: 2900, episode steps: 100, reward: -9.17
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0012154054641723632
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -11.04
+----------------------------------------
+30 : Simulated data
+30 0 2900
+Episode: 30, total numsteps: 3000, episode steps: 100, reward: -10.73
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0013631272315979004
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -11.46
+----------------------------------------
+31 : Simulated data
+31 0 3000
+Episode: 31, total numsteps: 3100, episode steps: 100, reward: -8.59
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0012751317024230957
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -7.82
+----------------------------------------
+32 : Simulated data
+32 0 3100
+Episode: 32, total numsteps: 3200, episode steps: 100, reward: -7.52
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0012548160552978515
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -9.25
+----------------------------------------
+33 : Simulated data
+33 0 3200
+Episode: 33, total numsteps: 3300, episode steps: 100, reward: -8.95
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001357731819152832
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -10.48
+----------------------------------------
+34 : Simulated data
+34 0 3300
+Episode: 34, total numsteps: 3400, episode steps: 100, reward: -5.65
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0010463213920593262
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -6.31
+----------------------------------------
+35 : Simulated data
+35 0 3400
+Episode: 35, total numsteps: 3500, episode steps: 100, reward: -9.03
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0010512638092041015
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.91
+----------------------------------------
+36 : Simulated data
+36 0 3500
+Episode: 36, total numsteps: 3600, episode steps: 100, reward: -7.79
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001039867401123047
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -6.89
+----------------------------------------
+37 : Simulated data
+37 0 3600
+Episode: 37, total numsteps: 3700, episode steps: 100, reward: -5.07
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0008710527420043945
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -7.67
+----------------------------------------
+38 : Simulated data
+38 0 3700
+Episode: 38, total numsteps: 3800, episode steps: 100, reward: -7.62
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0011875963211059571
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -8.4
+----------------------------------------
+39 : Simulated data
+39 0 3800
+Episode: 39, total numsteps: 3900, episode steps: 100, reward: -6.45
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0013090085983276367
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -6.29
+----------------------------------------
+40 : Simulated data
+40 0 3900
+Episode: 40, total numsteps: 4000, episode steps: 100, reward: -7.26
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0012010741233825684
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -6.97
+----------------------------------------
+41 : Simulated data
+41 0 4000
+Episode: 41, total numsteps: 4100, episode steps: 100, reward: -3.76
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0014768314361572265
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.93
+----------------------------------------
+42 : Simulated data
+42 0 4100
+Episode: 42, total numsteps: 4200, episode steps: 100, reward: -6.77
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001432046890258789
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -4.37
+----------------------------------------
+43 : Simulated data
+43 0 4200
+Episode: 43, total numsteps: 4300, episode steps: 100, reward: -6.48
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0009262776374816895
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.51
+----------------------------------------
+44 : Simulated data
+44 0 4300
+Episode: 44, total numsteps: 4400, episode steps: 100, reward: -2.74
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0018490004539489747
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.42
+----------------------------------------
+45 : Simulated data
+45 0 4400
+Episode: 45, total numsteps: 4500, episode steps: 100, reward: -4.58
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0009560704231262207
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -5.18
+----------------------------------------
+46 : Simulated data
+46 0 4500
+Episode: 46, total numsteps: 4600, episode steps: 100, reward: -6.06
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0014658665657043457
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -6.26
+----------------------------------------
+47 : Simulated data
+47 0 4600
+Episode: 47, total numsteps: 4700, episode steps: 100, reward: -3.97
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0013804435729980469
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.15
+----------------------------------------
+48 : Simulated data
+48 0 4700
+Episode: 48, total numsteps: 4800, episode steps: 100, reward: -3.68
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0012272834777832032
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -5.22
+----------------------------------------
+49 : Simulated data
+49 0 4800
+Episode: 49, total numsteps: 4900, episode steps: 100, reward: -4.19
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0010782122611999513
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.21
+----------------------------------------
+50 : Simulated data
+50 0 4900
+Episode: 50, total numsteps: 5000, episode steps: 100, reward: -6.09
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0009912872314453126
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -6.54
+----------------------------------------
+51 : Simulated data
+51 0 5000
+Episode: 51, total numsteps: 5100, episode steps: 100, reward: -3.51
+starting testing...
+Finished test episode: 3 shield and 97 neural
+Average time: 0.0012800216674804688
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.44
+----------------------------------------
+52 : Simulated data
+52 0 5100
+Episode: 52, total numsteps: 5200, episode steps: 100, reward: -2.16
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001204981803894043
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.53
+----------------------------------------
+53 : Simulated data
+53 0 5200
+Episode: 53, total numsteps: 5300, episode steps: 100, reward: -1.16
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0011979269981384278
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.29
+----------------------------------------
+54 : Simulated data
+54 0 5300
+Episode: 54, total numsteps: 5400, episode steps: 100, reward: -0.51
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0012710356712341308
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.53
+----------------------------------------
+55 : Simulated data
+55 0 5400
+Episode: 55, total numsteps: 5500, episode steps: 100, reward: -2.61
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0012250924110412597
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.23
+----------------------------------------
+56 : Simulated data
+56 0 5500
+Episode: 56, total numsteps: 5600, episode steps: 100, reward: -2.19
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0014126729965209962
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.38
+----------------------------------------
+57 : Simulated data
+57 0 5600
+Episode: 57, total numsteps: 5700, episode steps: 100, reward: -0.89
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0010325288772583007
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.67
+----------------------------------------
+58 : Simulated data
+58 0 5700
+Episode: 58, total numsteps: 5800, episode steps: 100, reward: -1.25
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0008890104293823243
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.07
+----------------------------------------
+59 : Simulated data
+59 0 5800
+Episode: 59, total numsteps: 5900, episode steps: 100, reward: -0.84
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0011749553680419922
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.83
+----------------------------------------
+60 : Simulated data
+60 0 5900
+Episode: 60, total numsteps: 6000, episode steps: 100, reward: -2.2
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0012383723258972167
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.72
+----------------------------------------
+61 : Simulated data
+61 0 6000
+Episode: 61, total numsteps: 6100, episode steps: 100, reward: -0.81
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001152336597442627
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.81
+----------------------------------------
+62 : Simulated data
+62 0 6100
+Episode: 62, total numsteps: 6200, episode steps: 100, reward: -1.77
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001659069061279297
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.3
+----------------------------------------
+63 : Simulated data
+63 0 6200
+Episode: 63, total numsteps: 6300, episode steps: 100, reward: -1.25
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0013532590866088866
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.58
+----------------------------------------
+64 : Simulated data
+64 0 6300
+Episode: 64, total numsteps: 6400, episode steps: 100, reward: -1.38
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0049974298477172855
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.19
+----------------------------------------
+65 : Simulated data
+65 0 6400
+Episode: 65, total numsteps: 6500, episode steps: 100, reward: -0.85
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002365233898162842
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.62
+----------------------------------------
+66 : Simulated data
+66 0 6500
+Episode: 66, total numsteps: 6600, episode steps: 100, reward: -1.16
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003346583843231201
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.67
+----------------------------------------
+67 : Simulated data
+67 0 6600
+Episode: 67, total numsteps: 6700, episode steps: 100, reward: -1.31
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0026894640922546387
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.03
+----------------------------------------
+68 : Simulated data
+68 0 6700
+Episode: 68, total numsteps: 6800, episode steps: 100, reward: -0.9
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.006063799858093261
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.92
+----------------------------------------
+69 : Simulated data
+69 0 6800
+Episode: 69, total numsteps: 6900, episode steps: 100, reward: -0.74
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0022204136848449707
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.18
+----------------------------------------
+70 : Simulated data
+70 0 6900
+Episode: 70, total numsteps: 7000, episode steps: 100, reward: -2.25
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003481757640838623
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.73
+----------------------------------------
+71 : Simulated data
+71 0 7000
+Episode: 71, total numsteps: 7100, episode steps: 100, reward: -1.73
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0018073558807373048
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.61
+----------------------------------------
+72 : Simulated data
+72 0 7100
+Episode: 72, total numsteps: 7200, episode steps: 100, reward: -1.39
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.01310427188873291
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.07
+----------------------------------------
+73 : Simulated data
+73 0 7200
+Episode: 73, total numsteps: 7300, episode steps: 100, reward: -0.4
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002255594730377197
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.44
+----------------------------------------
+74 : Simulated data
+74 0 7300
+Episode: 74, total numsteps: 7400, episode steps: 100, reward: -0.74
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003734588623046875
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.03
+----------------------------------------
+75 : Simulated data
+75 0 7400
+Episode: 75, total numsteps: 7500, episode steps: 100, reward: -0.78
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002225940227508545
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.29
+----------------------------------------
+76 : Simulated data
+76 0 7500
+Episode: 76, total numsteps: 7600, episode steps: 100, reward: -0.72
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0029229259490966795
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.66
+----------------------------------------
+77 : Simulated data
+77 0 7600
+Episode: 77, total numsteps: 7700, episode steps: 100, reward: -0.94
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002523336410522461
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.62
+----------------------------------------
+78 : Simulated data
+78 0 7700
+Episode: 78, total numsteps: 7800, episode steps: 100, reward: -0.89
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0031877875328063963
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.72
+----------------------------------------
+79 : Simulated data
+79 0 7800
+Episode: 79, total numsteps: 7900, episode steps: 100, reward: -1.61
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0033849167823791506
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.19
+----------------------------------------
+80 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.00492365837097168
+Episode: 80, total numsteps: 8000, episode steps: 100, reward: -1.03
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0020819902420043945
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.73
+----------------------------------------
+81 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004856493473052979
+Episode: 81, total numsteps: 8100, episode steps: 100, reward: -0.8
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0018576669692993164
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.6
+----------------------------------------
+82 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.0046295785903930665
+Episode: 82, total numsteps: 8200, episode steps: 100, reward: -0.76
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001979491710662842
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.58
+----------------------------------------
+83 : Real data
+Shield steps: 1   Neural steps: 99
+Average time: 0.004912173748016358
+Episode: 83, total numsteps: 8300, episode steps: 100, reward: -0.71
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.001423187255859375
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.68
+----------------------------------------
+84 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004444444179534912
+Episode: 84, total numsteps: 8400, episode steps: 100, reward: -0.96
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003924188613891602
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.48
+----------------------------------------
+85 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004889624118804932
+Episode: 85, total numsteps: 8500, episode steps: 100, reward: -0.86
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0022246718406677248
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.03
+----------------------------------------
+86 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004910333156585693
+Episode: 86, total numsteps: 8600, episode steps: 100, reward: -1.02
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0029367423057556153
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.6
+----------------------------------------
+87 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004887516498565674
+Episode: 87, total numsteps: 8700, episode steps: 100, reward: -0.58
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0019553661346435546
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.67
+----------------------------------------
+88 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.005805716514587402
+Episode: 88, total numsteps: 8800, episode steps: 100, reward: -1.06
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001565244197845459
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.35
+----------------------------------------
+89 : Real data
+Shield steps: 2   Neural steps: 98
+Average time: 0.0042305922508239745
+Episode: 89, total numsteps: 8900, episode steps: 100, reward: -1.24
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0064760160446166995
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.94
+----------------------------------------
+90 : Simulated data
+90 0 8900
+Episode: 90, total numsteps: 9000, episode steps: 100, reward: -2.08
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.004346187114715576
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.38
+----------------------------------------
+91 : Simulated data
+91 0 9000
+Episode: 91, total numsteps: 9100, episode steps: 100, reward: -0.89
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0038879227638244627
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.32
+----------------------------------------
+92 : Simulated data
+92 0 9100
+Episode: 92, total numsteps: 9200, episode steps: 100, reward: -0.83
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.00238680362701416
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.74
+----------------------------------------
+93 : Simulated data
+93 0 9200
+Episode: 93, total numsteps: 9300, episode steps: 100, reward: -0.97
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0014645051956176758
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.26
+----------------------------------------
+94 : Simulated data
+94 0 9300
+Episode: 94, total numsteps: 9400, episode steps: 100, reward: -0.67
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0031636571884155274
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.49
+----------------------------------------
+95 : Simulated data
+95 0 9400
+Episode: 95, total numsteps: 9500, episode steps: 100, reward: -0.48
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002288062572479248
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.76
+----------------------------------------
+96 : Simulated data
+96 0 9500
+Episode: 96, total numsteps: 9600, episode steps: 100, reward: -1.23
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001654050350189209
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.93
+----------------------------------------
+97 : Simulated data
+97 0 9600
+Episode: 97, total numsteps: 9700, episode steps: 100, reward: -0.95
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0031048917770385744
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.98
+----------------------------------------
+98 : Simulated data
+98 0 9700
+Episode: 98, total numsteps: 9800, episode steps: 100, reward: -0.98
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004943318367004394
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.43
+----------------------------------------
+99 : Simulated data
+99 0 9800
+Episode: 99, total numsteps: 9900, episode steps: 100, reward: -0.77
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003480510711669922
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.6
+----------------------------------------
+Trajectory:
+[array([0.00382591, 0.00066607], dtype=float32), array([ 0.00383923, -0.00340967]), array([ 0.00377104, -0.06065595]), array([ 0.00255792, -0.01336502]), array([ 0.00229062, -0.03491249]), array([ 0.00159237, -0.07594134]), array([ 7.35398972e-05, -4.48854660e-02]), array([-0.00082417, -0.00902225]), array([-0.00100461,  0.04199814]), array([-0.00016465, -0.01234098]), array([-0.00041147,  0.01788121]), array([-5.38468128e-05,  3.99979483e-02]), array([0.00074611, 0.04785968]), array([0.00170331, 0.0006195 ]), array([0.0017157 , 0.03127903]), array([0.00234128, 0.0751871 ]), array([0.00384502, 0.01747763]), array([ 0.00419457, -0.00420654]), array([0.00411044, 0.00541835]), array([0.00421881, 0.03493735]), array([0.00491755, 0.02082461]), array([0.00533405, 0.01941189]), array([0.00572228, 0.05240352]), array([0.00677035, 0.02144175]), array([ 0.00719919, -0.03542945]), array([ 0.0064906 , -0.00403982]), array([0.0064098 , 0.04809507]), array([ 0.00737171, -0.00394567]), array([0.00729279, 0.03584572]), array([0.00800971, 0.01506334]), array([0.00831097, 0.06245448]), array([0.00956006, 0.01060341]), array([0.00977213, 0.0114618 ]), array([ 0.01000137, -0.02048145]), array([ 0.00959174, -0.02368704]), array([0.009118  , 0.00481761]), array([0.00921435, 0.04127739]), array([0.0100399 , 0.01664164]), array([0.01037273, 0.01608051]), array([ 0.01069434, -0.00857374]), array([0.01052287, 0.00525967]), array([0.01062806, 0.05345075]), array([0.01169707, 0.10120092]), array([0.01372109, 0.0785555 ]), array([0.0152922 , 0.08097058]), array([0.01691161, 0.03052106]), array([0.01752203, 0.02170118]), array([0.01795606, 0.03614727]), array([0.018679  , 0.05285809]), array([0.01973617, 0.06976006]), array([0.02113137, 0.08800578]), array([0.02289148, 0.08197855]), array([0.02453105, 0.03112854]), array([0.02515362, 0.0430285 ]), array([ 0.02601419, -0.0035118 ]), array([ 0.02594396, -0.03513706]), array([ 0.02524122, -0.0338064 ]), array([ 0.02456509, -0.06408473]), array([ 0.02328339, -0.07763741]), array([ 0.02173065, -0.01903438]), array([0.02134996, 0.00143834]), array([ 0.02137873, -0.02486385]), array([0.02088145, 0.02944792]), array([0.02147041, 0.02301345]), array([0.02193068, 0.05256923]), array([0.02298206, 0.03359181]), array([0.0236539 , 0.01370399]), array([0.02392798, 0.03613164]), array([ 0.02465061, -0.00680066]), array([0.0245146 , 0.04644355]), array([0.02544347, 0.01944276]), array([ 0.02583232, -0.03396996]), array([0.02515292, 0.02206292]), array([ 0.02559418, -0.00733848]), array([0.02544741, 0.04076884]), array([0.02626279, 0.04439796]), array([0.02715075, 0.00905628]), array([ 0.02733187, -0.0293313 ]), array([ 0.02674525, -0.00158369]), array([0.02671357, 0.04198095]), array([ 0.02755319, -0.01403576]), array([ 0.02727248, -0.04279595]), array([0.02641656, 0.01505171]), array([0.02671759, 0.03104246]), array([0.02733844, 0.0729039 ]), array([0.02879652, 0.06568875]), array([0.0301103 , 0.01195384]), array([ 0.03034937, -0.03343433]), array([ 0.02968069, -0.0276266 ]), array([ 0.02912815, -0.06253588]), array([ 0.02787744, -0.10060238]), array([ 0.02586539, -0.07280589]), array([ 0.02440927, -0.06428527]), array([ 0.02312357, -0.07867146]), array([ 0.02155014, -0.0223955 ]), array([ 0.02110223, -0.05340464]), array([ 0.02003413, -0.0548136 ]), array([ 0.01893786, -0.10593586]), array([ 0.01681914, -0.08624552]), array([ 0.01509423, -0.03428782])]
+100 : Simulated data
+100 0 9900
+Episode: 100, total numsteps: 10000, episode steps: 100, reward: -1.17
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003218538761138916
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.97
+----------------------------------------
+101 : Simulated data
+101 0 10000
+Episode: 101, total numsteps: 10100, episode steps: 100, reward: -0.82
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004558947086334229
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.89
+----------------------------------------
+102 : Simulated data
+102 0 10100
+Episode: 102, total numsteps: 10200, episode steps: 100, reward: -0.37
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0031085944175720213
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.5
+----------------------------------------
+103 : Simulated data
+103 0 10200
+Episode: 103, total numsteps: 10300, episode steps: 100, reward: -0.71
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.008872489929199218
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.64
+----------------------------------------
+104 : Simulated data
+104 0 10300
+Episode: 104, total numsteps: 10400, episode steps: 100, reward: -0.59
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0038239288330078123
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.04
+----------------------------------------
+105 : Simulated data
+105 0 10400
+Episode: 105, total numsteps: 10500, episode steps: 100, reward: -1.51
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002463657855987549
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.33
+----------------------------------------
+106 : Simulated data
+106 0 10500
+Episode: 106, total numsteps: 10600, episode steps: 100, reward: -0.42
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0015860581398010254
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.07
+----------------------------------------
+107 : Simulated data
+107 0 10600
+Episode: 107, total numsteps: 10700, episode steps: 100, reward: -0.62
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0031189584732055665
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.7
+----------------------------------------
+108 : Simulated data
+108 0 10700
+Episode: 108, total numsteps: 10800, episode steps: 100, reward: -1.54
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0048758935928344726
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.66
+----------------------------------------
+109 : Simulated data
+109 0 10800
+State stats: [-0.03007736 -0.04499756] [0.11948924 0.20662065]
+Action stats: [0.01274365] [0.57282186]
+Reward stats: -5.03326663815899 8.812624040732798
+Computed error: 0.034639155405129185 ( 0.013179495142235709 0.021459660262893473 )
+Epoch: 0 tensor(0.0159)
+Epoch: 1 tensor(0.0046)
+Epoch: 2 tensor(0.0008)
+Epoch: 3 tensor(0.0002)
+Epoch: 4 tensor(0.0001)
+Epoch: 5 tensor(0.0001)
+Epoch: 6 tensor(0.0001)
+Epoch: 7 tensor(0.0001)
+Epoch: 8 tensor(0.0001)
+Epoch: 9 tensor(0.0001)
+Epoch: 10 tensor(0.0001)
+Epoch: 11 tensor(0.0001)
+Epoch: 12 tensor(0.0001)
+Epoch: 13 tensor(0.0001)
+Epoch: 14 tensor(0.0001)
+Epoch: 15 tensor(0.0001)
+Epoch: 16 tensor(0.0001)
+Epoch: 17 tensor(0.0001)
+Epoch: 18 tensor(0.0001)
+Epoch: 19 tensor(0.0001)
+Epoch: 20 tensor(0.0001)
+Epoch: 21 tensor(0.0001)
+Epoch: 22 tensor(0.0001)
+Epoch: 23 tensor(0.0001)
+Epoch: 24 tensor(0.0001)
+Epoch: 25 tensor(0.0001)
+Epoch: 26 tensor(9.8935e-05)
+Epoch: 27 tensor(0.0001)
+Epoch: 28 tensor(9.7030e-05)
+Epoch: 29 tensor(9.8153e-05)
+Epoch: 30 tensor(9.4861e-05)
+Epoch: 31 tensor(9.4887e-05)
+Epoch: 32 tensor(9.3348e-05)
+Epoch: 33 tensor(9.3351e-05)
+Epoch: 34 tensor(9.1926e-05)
+Epoch: 35 tensor(8.8762e-05)
+Epoch: 36 tensor(8.7774e-05)
+Epoch: 37 tensor(8.8043e-05)
+Epoch: 38 tensor(8.6171e-05)
+Epoch: 39 tensor(8.6182e-05)
+Epoch: 40 tensor(8.4483e-05)
+Epoch: 41 tensor(8.2987e-05)
+Epoch: 42 tensor(8.3087e-05)
+Epoch: 43 tensor(8.2250e-05)
+Epoch: 44 tensor(7.9768e-05)
+Epoch: 45 tensor(7.8758e-05)
+Epoch: 46 tensor(7.9751e-05)
+Epoch: 47 tensor(7.7990e-05)
+Epoch: 48 tensor(7.5828e-05)
+Epoch: 49 tensor(7.6432e-05)
+Epoch: 50 tensor(7.5360e-05)
+Epoch: 51 tensor(7.5160e-05)
+Epoch: 52 tensor(7.3842e-05)
+Epoch: 53 tensor(7.2303e-05)
+Epoch: 54 tensor(7.1927e-05)
+Epoch: 55 tensor(7.0827e-05)
+Epoch: 56 tensor(7.0104e-05)
+Epoch: 57 tensor(6.9686e-05)
+Epoch: 58 tensor(6.8605e-05)
+Epoch: 59 tensor(6.7879e-05)
+Epoch: 60 tensor(6.7419e-05)
+Epoch: 61 tensor(6.6255e-05)
+Epoch: 62 tensor(6.4968e-05)
+Epoch: 63 tensor(6.6351e-05)
+Epoch: 64 tensor(6.4844e-05)
+Epoch: 65 tensor(6.3373e-05)
+Epoch: 66 tensor(6.2679e-05)
+Epoch: 67 tensor(6.2339e-05)
+Epoch: 68 tensor(6.2038e-05)
+Epoch: 69 tensor(6.1192e-05)
+Epoch: 70 tensor(6.1605e-05)
+Epoch: 71 tensor(5.8951e-05)
+Epoch: 72 tensor(5.9211e-05)
+Epoch: 73 tensor(5.8019e-05)
+Epoch: 74 tensor(5.7821e-05)
+Epoch: 75 tensor(5.7328e-05)
+Epoch: 76 tensor(5.5690e-05)
+Epoch: 77 tensor(5.5716e-05)
+Epoch: 78 tensor(5.5118e-05)
+Epoch: 79 tensor(5.5063e-05)
+Epoch: 80 tensor(5.4893e-05)
+Epoch: 81 tensor(5.3302e-05)
+Epoch: 82 tensor(5.3237e-05)
+Epoch: 83 tensor(5.1972e-05)
+Epoch: 84 tensor(5.1127e-05)
+Epoch: 85 tensor(5.1089e-05)
+Epoch: 86 tensor(5.0287e-05)
+Epoch: 87 tensor(5.0033e-05)
+Epoch: 88 tensor(5.0131e-05)
+Epoch: 89 tensor(4.9197e-05)
+Epoch: 90 tensor(4.8566e-05)
+Epoch: 91 tensor(4.8116e-05)
+Epoch: 92 tensor(4.8342e-05)
+Epoch: 93 tensor(4.7076e-05)
+Epoch: 94 tensor(4.7191e-05)
+Epoch: 95 tensor(4.6121e-05)
+Epoch: 96 tensor(4.6352e-05)
+Epoch: 97 tensor(4.6370e-05)
+Epoch: 98 tensor(4.5516e-05)
+Epoch: 99 tensor(4.5265e-05)
+Epoch: 0 tensor(0.4153)
+Epoch: 1 tensor(0.3992)
+Epoch: 2 tensor(0.3881)
+Epoch: 3 tensor(0.3790)
+Epoch: 4 tensor(0.3691)
+Epoch: 5 tensor(0.3623)
+Epoch: 6 tensor(0.3597)
+Epoch: 7 tensor(0.3485)
+Epoch: 8 tensor(0.3511)
+Epoch: 9 tensor(0.3487)
+Epoch: 10 tensor(0.3440)
+Epoch: 11 tensor(0.3443)
+Epoch: 12 tensor(0.3408)
+Epoch: 13 tensor(0.3366)
+Epoch: 14 tensor(0.3344)
+Epoch: 15 tensor(0.3396)
+Epoch: 16 tensor(0.3355)
+Epoch: 17 tensor(0.3313)
+Epoch: 18 tensor(0.3257)
+Epoch: 19 tensor(0.3315)
+Epoch: 20 tensor(0.3305)
+Epoch: 21 tensor(0.3275)
+Epoch: 22 tensor(0.3318)
+Epoch: 23 tensor(0.3278)
+Epoch: 24 tensor(0.3320)
+Epoch: 25 tensor(0.3227)
+Epoch: 26 tensor(0.3259)
+Epoch: 27 tensor(0.3292)
+Epoch: 28 tensor(0.3260)
+Epoch: 29 tensor(0.3302)
+Epoch: 30 tensor(0.3261)
+Epoch: 31 tensor(0.3270)
+Epoch: 32 tensor(0.3251)
+Epoch: 33 tensor(0.3280)
+Epoch: 34 tensor(0.3255)
+Epoch: 35 tensor(0.3230)
+Epoch: 36 tensor(0.3166)
+Epoch: 37 tensor(0.3174)
+Epoch: 38 tensor(0.3292)
+Epoch: 39 tensor(0.3198)
+Epoch: 40 tensor(0.3225)
+Epoch: 41 tensor(0.3255)
+Epoch: 42 tensor(0.3174)
+Epoch: 43 tensor(0.3199)
+Epoch: 44 tensor(0.3155)
+Epoch: 45 tensor(0.3200)
+Epoch: 46 tensor(0.3150)
+Epoch: 47 tensor(0.3177)
+Epoch: 48 tensor(0.3215)
+Epoch: 49 tensor(0.3197)
+Epoch: 50 tensor(0.3187)
+Epoch: 51 tensor(0.3131)
+Epoch: 52 tensor(0.3139)
+Epoch: 53 tensor(0.3167)
+Epoch: 54 tensor(0.3130)
+Epoch: 55 tensor(0.3157)
+Epoch: 56 tensor(0.3108)
+Epoch: 57 tensor(0.3131)
+Epoch: 58 tensor(0.3088)
+Epoch: 59 tensor(0.3104)
+Epoch: 60 tensor(0.3102)
+Epoch: 61 tensor(0.3132)
+Epoch: 62 tensor(0.3112)
+Epoch: 63 tensor(0.3075)
+Epoch: 64 tensor(0.3097)
+Epoch: 65 tensor(0.3058)
+Epoch: 66 tensor(0.3070)
+Epoch: 67 tensor(0.3071)
+Epoch: 68 tensor(0.3020)
+Epoch: 69 tensor(0.3134)
+Epoch: 70 tensor(0.3028)
+Epoch: 71 tensor(0.3074)
+Epoch: 72 tensor(0.3053)
+Epoch: 73 tensor(0.3027)
+Epoch: 74 tensor(0.3056)
+Epoch: 75 tensor(0.3051)
+Epoch: 76 tensor(0.3094)
+Epoch: 77 tensor(0.3007)
+Epoch: 78 tensor(0.2988)
+Epoch: 79 tensor(0.2989)
+Epoch: 80 tensor(0.2993)
+Epoch: 81 tensor(0.3037)
+Epoch: 82 tensor(0.2994)
+Epoch: 83 tensor(0.2952)
+Epoch: 84 tensor(0.3035)
+Epoch: 85 tensor(0.2991)
+Epoch: 86 tensor(0.2957)
+Epoch: 87 tensor(0.3032)
+Epoch: 88 tensor(0.2887)
+Epoch: 89 tensor(0.2976)
+Epoch: 90 tensor(0.2946)
+Epoch: 91 tensor(0.2916)
+Epoch: 92 tensor(0.2884)
+Epoch: 93 tensor(0.2921)
+Epoch: 94 tensor(0.2893)
+Epoch: 95 tensor(0.2916)
+Epoch: 96 tensor(0.2912)
+Epoch: 97 tensor(0.2895)
+Epoch: 98 tensor(0.2883)
+Epoch: 99 tensor(0.2907)
+Earth Model
+-------------------------------------------------------
+Basis Function   Pruned  Coefficient 0  Coefficient 1  
+-------------------------------------------------------
+(Intercept)      No      0.4132         -0.327793      
+h(x1+0.336101)   No      0.034584       1.00053        
+h(-0.336101-x1)  No      -0.034584      -0.999679      
+h(x0-0.432355)   No      1              0.0272339      
+h(0.432355-x0)   No      -1             -0.0275564     
+x2               No      -4.19349e-16   0.166358       
+-------------------------------------------------------
+MSE: 0.0000, GCV: 0.0000, RSQ: 1.0000, GRSQ: 1.0000
+Basis:
+1.0
+h(x1 - -0.3361010210733106)
+h(-0.3361010210733106 - x1)
+h(x0 - 0.4323550113993583)
+h(0.4323550113993583 - x0)
+x2
+Coeffs:
+[[0.4131996515676703, 0.03458397443484296, -0.03458397443484468, 1.0000000000000007, -1.0000000000000009, -4.193488584762325e-16], [-0.32779271823282063, 1.0005288421673133, -0.9996785322902273, 0.02723388033534796, -0.027556406250203946, 0.16635809023541712]]
+Model MSE: 3.546472919776898e-07
+Earth Model
+---------------------------------------
+Basis Function    Pruned  Coefficient  
+---------------------------------------
+(Intercept)       No      3.07901      
+h(x1-0.307802)    No      -1.19896     
+h(0.307802-x1)    Yes     None         
+h(x0+0.973999)    Yes     None         
+h(-0.973999-x0)   No      2.09561      
+h(x1+1.29274)     No      0.756205     
+h(-1.29274-x1)    No      0.2183       
+h(x0+1.5261)      No      -1.88275     
+h(-1.5261-x0)     Yes     None         
+h(x0-0.200032)    No      -6.99746     
+h(0.200032-x0)    Yes     None         
+h(x1-3.15541)     No      1.32774      
+h(3.15541-x1)     Yes     None         
+h(x1+0.0483576)   No      -0.54103     
+h(-0.0483576-x1)  Yes     None         
+h(x0-0.331461)    No      5.3634       
+h(0.331461-x0)    Yes     None         
+h(x0-0.10388)     No      3.64185      
+h(0.10388-x0)     Yes     None         
+h(x0-0.415038)    Yes     None         
+h(0.415038-x0)    No      -2.61633     
+---------------------------------------
+MSE: 0.6082, GCV: 0.6199, RSQ: 0.3918, GRSQ: 0.3808
+Episode: 109, total numsteps: 10900, episode steps: 100, reward: -0.64
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.004370121955871582
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.2
+----------------------------------------
+110 : Simulated data
+110 0 10900
+Episode: 110, total numsteps: 11000, episode steps: 100, reward: -2.1
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002253556251525879
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.66
+----------------------------------------
+111 : Simulated data
+111 0 11000
+Episode: 111, total numsteps: 11100, episode steps: 100, reward: -0.48
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001901254653930664
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.92
+----------------------------------------
+112 : Simulated data
+112 0 11100
+Episode: 112, total numsteps: 11200, episode steps: 100, reward: -1.31
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0030285811424255373
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.88
+----------------------------------------
+113 : Simulated data
+113 0 11200
+Episode: 113, total numsteps: 11300, episode steps: 100, reward: -0.41
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0023209476470947266
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.67
+----------------------------------------
+114 : Simulated data
+114 0 11300
+Episode: 114, total numsteps: 11400, episode steps: 100, reward: -0.97
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0037565875053405763
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.12
+----------------------------------------
+115 : Simulated data
+115 0 11400
+Episode: 115, total numsteps: 11500, episode steps: 100, reward: -0.51
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003144245147705078
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.49
+----------------------------------------
+116 : Simulated data
+116 0 11500
+Episode: 116, total numsteps: 11600, episode steps: 100, reward: -0.96
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.005420451164245606
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.98
+----------------------------------------
+117 : Simulated data
+117 0 11600
+Episode: 117, total numsteps: 11700, episode steps: 100, reward: -1.81
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001660940647125244
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.14
+----------------------------------------
+118 : Simulated data
+118 0 11700
+Episode: 118, total numsteps: 11800, episode steps: 100, reward: -0.52
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004429316520690918
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.16
+----------------------------------------
+119 : Simulated data
+119 0 11800
+Episode: 119, total numsteps: 11900, episode steps: 100, reward: -0.91
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0032760405540466307
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.26
+----------------------------------------
+120 : Simulated data
+120 0 11900
+Episode: 120, total numsteps: 12000, episode steps: 100, reward: -0.93
+starting testing...
+Finished test episode: 3 shield and 97 neural
+Average time: 0.0025652432441711425
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.73
+----------------------------------------
+121 : Simulated data
+121 0 12000
+Episode: 121, total numsteps: 12100, episode steps: 100, reward: -1.42
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.004637222290039062
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.51
+----------------------------------------
+122 : Simulated data
+122 0 12100
+Episode: 122, total numsteps: 12200, episode steps: 100, reward: -1.3
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0021349215507507325
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.53
+----------------------------------------
+123 : Simulated data
+123 0 12200
+Episode: 123, total numsteps: 12300, episode steps: 100, reward: -0.87
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0034222960472106933
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.23
+----------------------------------------
+124 : Simulated data
+124 0 12300
+Episode: 124, total numsteps: 12400, episode steps: 100, reward: -1.58
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002153337001800537
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.53
+----------------------------------------
+125 : Simulated data
+125 0 12400
+Episode: 125, total numsteps: 12500, episode steps: 100, reward: -0.72
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003264162540435791
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.89
+----------------------------------------
+126 : Simulated data
+126 0 12500
+Episode: 126, total numsteps: 12600, episode steps: 100, reward: -1.22
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.012232527732849122
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.88
+----------------------------------------
+127 : Simulated data
+127 0 12600
+Episode: 127, total numsteps: 12700, episode steps: 100, reward: -0.38
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0030540919303894045
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.21
+----------------------------------------
+128 : Simulated data
+128 0 12700
+Episode: 128, total numsteps: 12800, episode steps: 100, reward: -1.4
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0018696880340576172
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.37
+----------------------------------------
+129 : Simulated data
+129 0 12800
+Episode: 129, total numsteps: 12900, episode steps: 100, reward: -1.42
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002650649547576904
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.24
+----------------------------------------
+130 : Simulated data
+130 0 12900
+Episode: 130, total numsteps: 13000, episode steps: 100, reward: -1.07
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004946043491363525
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.96
+----------------------------------------
+131 : Simulated data
+131 0 13000
+Episode: 131, total numsteps: 13100, episode steps: 100, reward: -0.29
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0041113138198852536
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.58
+----------------------------------------
+132 : Simulated data
+132 0 13100
+Episode: 132, total numsteps: 13200, episode steps: 100, reward: -0.97
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002614138126373291
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.96
+----------------------------------------
+133 : Simulated data
+133 0 13200
+Episode: 133, total numsteps: 13300, episode steps: 100, reward: -1.23
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.01557600736618042
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.0
+----------------------------------------
+134 : Simulated data
+134 0 13300
+Episode: 134, total numsteps: 13400, episode steps: 100, reward: -1.16
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0027577710151672364
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.3
+----------------------------------------
+135 : Simulated data
+135 0 13400
+Episode: 135, total numsteps: 13500, episode steps: 100, reward: -1.19
+starting testing...
+Finished test episode: 2 shield and 98 neural
+Average time: 0.0033865833282470705
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.95
+----------------------------------------
+136 : Simulated data
+136 0 13500
+Episode: 136, total numsteps: 13600, episode steps: 100, reward: -0.53
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0022235751152038575
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.56
+----------------------------------------
+137 : Simulated data
+137 0 13600
+Episode: 137, total numsteps: 13700, episode steps: 100, reward: -1.25
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003510158061981201
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.22
+----------------------------------------
+138 : Simulated data
+138 0 13700
+Episode: 138, total numsteps: 13800, episode steps: 100, reward: -0.68
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.006068384647369385
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.48
+----------------------------------------
+139 : Simulated data
+139 0 13800
+Episode: 139, total numsteps: 13900, episode steps: 100, reward: -1.81
+starting testing...
+Finished test episode: 2 shield and 98 neural
+Average time: 0.003675236701965332
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.93
+----------------------------------------
+140 : Simulated data
+140 0 13900
+Episode: 140, total numsteps: 14000, episode steps: 100, reward: -1.19
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002273311614990234
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.72
+----------------------------------------
+141 : Simulated data
+141 0 14000
+Episode: 141, total numsteps: 14100, episode steps: 100, reward: -1.88
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.004442224502563477
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.53
+----------------------------------------
+142 : Simulated data
+142 0 14100
+Episode: 142, total numsteps: 14200, episode steps: 100, reward: -3.63
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0021019458770751955
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.51
+----------------------------------------
+143 : Simulated data
+143 0 14200
+Episode: 143, total numsteps: 14300, episode steps: 100, reward: -1.8
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.005705623626708984
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.38
+----------------------------------------
+144 : Simulated data
+144 0 14300
+Episode: 144, total numsteps: 14400, episode steps: 100, reward: -1.51
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0025862693786621095
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.38
+----------------------------------------
+145 : Simulated data
+145 0 14400
+Episode: 145, total numsteps: 14500, episode steps: 100, reward: -1.59
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0035222268104553225
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.6
+----------------------------------------
+146 : Simulated data
+146 0 14500
+Episode: 146, total numsteps: 14600, episode steps: 100, reward: -0.71
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001860339641571045
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.11
+----------------------------------------
+147 : Simulated data
+147 0 14600
+Episode: 147, total numsteps: 14700, episode steps: 100, reward: -2.73
+starting testing...
+Finished test episode: 2 shield and 98 neural
+Average time: 0.002483630180358887
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.9
+----------------------------------------
+148 : Simulated data
+148 0 14700
+Episode: 148, total numsteps: 14800, episode steps: 100, reward: -0.54
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003426070213317871
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.5
+----------------------------------------
+149 : Simulated data
+149 0 14800
+Episode: 149, total numsteps: 14900, episode steps: 100, reward: -0.56
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.00272280216217041
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.73
+----------------------------------------
+150 : Simulated data
+150 0 14900
+Episode: 150, total numsteps: 15000, episode steps: 100, reward: -1.75
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002424654960632324
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.62
+----------------------------------------
+151 : Simulated data
+151 0 15000
+Episode: 151, total numsteps: 15100, episode steps: 100, reward: -2.7
+starting testing...
+Finished test episode: 2 shield and 98 neural
+Average time: 0.00207233190536499
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.65
+----------------------------------------
+152 : Simulated data
+152 0 15100
+Episode: 152, total numsteps: 15200, episode steps: 100, reward: -1.25
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.006118600368499756
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.19
+----------------------------------------
+153 : Simulated data
+153 0 15200
+Episode: 153, total numsteps: 15300, episode steps: 100, reward: -1.51
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0024031472206115724
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.03
+----------------------------------------
+154 : Simulated data
+154 0 15300
+Episode: 154, total numsteps: 15400, episode steps: 100, reward: -1.7
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0029710602760314943
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.13
+----------------------------------------
+155 : Simulated data
+155 0 15400
+Episode: 155, total numsteps: 15500, episode steps: 100, reward: -0.98
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0021397733688354494
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.82
+----------------------------------------
+156 : Simulated data
+156 0 15500
+Episode: 156, total numsteps: 15600, episode steps: 100, reward: -0.92
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0015322422981262206
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.96
+----------------------------------------
+157 : Simulated data
+157 0 15600
+Episode: 157, total numsteps: 15700, episode steps: 100, reward: -2.0
+starting testing...
+Finished test episode: 3 shield and 97 neural
+Average time: 0.001812739372253418
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.99
+----------------------------------------
+158 : Simulated data
+158 0 15700
+Episode: 158, total numsteps: 15800, episode steps: 100, reward: -2.33
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002276768684387207
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.13
+----------------------------------------
+159 : Simulated data
+159 0 15800
+Episode: 159, total numsteps: 15900, episode steps: 100, reward: -1.37
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004226601123809815
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.39
+----------------------------------------
+160 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004896655082702637
+Episode: 160, total numsteps: 16000, episode steps: 100, reward: -2.0
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0015093016624450684
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.62
+----------------------------------------
+161 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004055843353271484
+Episode: 161, total numsteps: 16100, episode steps: 100, reward: -0.69
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0027582335472106936
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.83
+----------------------------------------
+162 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004395575523376465
+Episode: 162, total numsteps: 16200, episode steps: 100, reward: -2.65
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0014005541801452638
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.36
+----------------------------------------
+163 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004310307502746582
+Episode: 163, total numsteps: 16300, episode steps: 100, reward: -0.85
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003445267677307129
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.6
+----------------------------------------
+164 : Real data
+Shield steps: 1   Neural steps: 99
+Average time: 0.005051734447479248
+Episode: 164, total numsteps: 16400, episode steps: 100, reward: -3.08
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.004333579540252685
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.65
+----------------------------------------
+165 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004724540710449219
+Episode: 165, total numsteps: 16500, episode steps: 100, reward: -0.78
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.00462709903717041
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.95
+----------------------------------------
+166 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.005963156223297119
+Episode: 166, total numsteps: 16600, episode steps: 100, reward: -1.13
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.004045372009277344
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.31
+----------------------------------------
+167 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.0049426817893981935
+Episode: 167, total numsteps: 16700, episode steps: 100, reward: -0.8
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0046945023536682125
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.37
+----------------------------------------
+168 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004513692855834961
+Episode: 168, total numsteps: 16800, episode steps: 100, reward: -2.19
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.003169112205505371
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.98
+----------------------------------------
+169 : Real data
+Shield steps: 2   Neural steps: 98
+Average time: 0.004566848278045654
+Episode: 169, total numsteps: 16900, episode steps: 100, reward: -1.74
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0013805437088012695
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.64
+----------------------------------------
+170 : Simulated data
+170 0 16900
+Episode: 170, total numsteps: 17000, episode steps: 100, reward: -1.07
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0018554258346557618
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.67
+----------------------------------------
+171 : Simulated data
+171 0 17000
+Episode: 171, total numsteps: 17100, episode steps: 100, reward: -1.99
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0018625497817993165
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.17
+----------------------------------------
+172 : Simulated data
+172 0 17100
+Episode: 172, total numsteps: 17200, episode steps: 100, reward: -5.56
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001827700138092041
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -4.41
+----------------------------------------
+173 : Simulated data
+173 0 17200
+Episode: 173, total numsteps: 17300, episode steps: 100, reward: -2.07
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0018667364120483398
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.71
+----------------------------------------
+174 : Simulated data
+174 0 17300
+Episode: 174, total numsteps: 17400, episode steps: 100, reward: -1.66
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0013636970520019532
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.49
+----------------------------------------
+175 : Simulated data
+175 0 17400
+Episode: 175, total numsteps: 17500, episode steps: 100, reward: -1.64
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0024504327774047853
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.18
+----------------------------------------
+176 : Simulated data
+176 0 17500
+Episode: 176, total numsteps: 17600, episode steps: 100, reward: -0.69
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0014223694801330567
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.06
+----------------------------------------
+177 : Simulated data
+177 0 17600
+Episode: 177, total numsteps: 17700, episode steps: 100, reward: -3.28
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0036206722259521486
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.63
+----------------------------------------
+178 : Simulated data
+178 0 17700
+Episode: 178, total numsteps: 17800, episode steps: 100, reward: -1.75
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0014743995666503906
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.31
+----------------------------------------
+179 : Simulated data
+179 0 17800
+Episode: 179, total numsteps: 17900, episode steps: 100, reward: -1.13
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.001806480884552002
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.23
+----------------------------------------
+180 : Simulated data
+180 0 17900
+Episode: 180, total numsteps: 18000, episode steps: 100, reward: -1.03
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.001751694679260254
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.46
+----------------------------------------
+181 : Simulated data
+181 0 18000
+Episode: 181, total numsteps: 18100, episode steps: 100, reward: -1.17
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0018260383605957031
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.43
+----------------------------------------
+182 : Simulated data
+182 0 18100
+Episode: 182, total numsteps: 18200, episode steps: 100, reward: -1.68
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.00307344913482666
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.21
+----------------------------------------
+183 : Simulated data
+183 0 18200
+Episode: 183, total numsteps: 18300, episode steps: 100, reward: -0.82
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002601585388183594
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.62
+----------------------------------------
+184 : Simulated data
+184 0 18300
+Episode: 184, total numsteps: 18400, episode steps: 100, reward: -3.03
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0019611334800720215
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.51
+----------------------------------------
+185 : Simulated data
+185 0 18400
+Episode: 185, total numsteps: 18500, episode steps: 100, reward: -2.64
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001963670253753662
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.64
+----------------------------------------
+186 : Simulated data
+186 0 18500
+Episode: 186, total numsteps: 18600, episode steps: 100, reward: -1.07
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002769277095794678
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.37
+----------------------------------------
+187 : Simulated data
+187 0 18600
+Episode: 187, total numsteps: 18700, episode steps: 100, reward: -2.17
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0065505456924438476
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.59
+----------------------------------------
+188 : Simulated data
+188 0 18700
+Episode: 188, total numsteps: 18800, episode steps: 100, reward: -1.28
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002752964496612549
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.51
+----------------------------------------
+189 : Simulated data
+189 0 18800
+Episode: 189, total numsteps: 18900, episode steps: 100, reward: -1.51
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0028054332733154297
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.54
+----------------------------------------
+190 : Simulated data
+190 0 18900
+Episode: 190, total numsteps: 19000, episode steps: 100, reward: -0.89
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0025717949867248534
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.98
+----------------------------------------
+191 : Simulated data
+191 0 19000
+Episode: 191, total numsteps: 19100, episode steps: 100, reward: -1.7
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0027817797660827635
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.7
+----------------------------------------
+192 : Simulated data
+192 0 19100
+Episode: 192, total numsteps: 19200, episode steps: 100, reward: -1.39
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0026824378967285154
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.25
+----------------------------------------
+193 : Simulated data
+193 0 19200
+Episode: 193, total numsteps: 19300, episode steps: 100, reward: -0.46
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.007850697040557861
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.04
+----------------------------------------
+194 : Simulated data
+194 0 19300
+Episode: 194, total numsteps: 19400, episode steps: 100, reward: -0.42
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003750514984130859
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.6
+----------------------------------------
+195 : Simulated data
+195 0 19400
+Episode: 195, total numsteps: 19500, episode steps: 100, reward: -1.47
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.001735532283782959
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.06
+----------------------------------------
+196 : Simulated data
+196 0 19500
+Episode: 196, total numsteps: 19600, episode steps: 100, reward: -1.27
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0020847702026367187
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.54
+----------------------------------------
+197 : Simulated data
+197 0 19600
+Episode: 197, total numsteps: 19700, episode steps: 100, reward: -0.82
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0018999290466308594
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.43
+----------------------------------------
+198 : Simulated data
+198 0 19700
+Episode: 198, total numsteps: 19800, episode steps: 100, reward: -3.06
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002926156520843506
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.06
+----------------------------------------
+199 : Simulated data
+199 0 19800
+Episode: 199, total numsteps: 19900, episode steps: 100, reward: -1.68
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0021294689178466795
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.07
+----------------------------------------
+Trajectory:
+[array([-0.00226298,  0.00071602], dtype=float32), array([-0.00224866,  0.02034472]), array([-0.00184177,  0.00402614]), array([-0.00176124,  0.00656912]), array([-0.00162986, -0.04677874]), array([-0.00256544, -0.03181265]), array([-0.00320169,  0.01896266]), array([-0.00282243, -0.00214903]), array([-0.00286542, -0.00775593]), array([-0.00302053,  0.00290286]), array([-0.00296248,  0.0132696 ]), array([-0.00269708, -0.04079361]), array([-0.00351296, -0.09069846]), array([-0.00532693, -0.07001337]), array([-0.00672719, -0.10155861]), array([-0.00875837, -0.12911569]), array([-0.01134068, -0.10492745]), array([-0.01343923, -0.05880567]), array([-0.01461534, -0.00867739]), array([-0.01478889, -0.01330659]), array([-0.01505502,  0.00815307]), array([-0.01489196, -0.0123821 ]), array([-0.0151396 ,  0.00148025]), array([-0.01511   ,  0.04237123]), array([-0.01426257,  0.04501279]), array([-0.01336232,  0.06835973]), array([-0.01199512,  0.03508246]), array([-0.01129347,  0.00493003]), array([-0.01119487, -0.03978423]), array([-0.01199056,  0.0003388 ]), array([-0.01198378,  0.02980895]), array([-0.0113876 , -0.00651549]), array([-0.01151791,  0.04280536]), array([-0.0106618 ,  0.03660603]), array([-0.00992968,  0.00497849]), array([-0.00983011, -0.01043082]), array([-0.01003873,  0.03472411]), array([-0.00934425,  0.01474015]), array([-0.00904945,  0.05493716]), array([-0.0079507 ,  0.09643204]), array([-0.00602206,  0.10376088]), array([-0.00394684,  0.08373711]), array([-0.0022721 ,  0.04719785]), array([-0.00132814,  0.03012105]), array([-0.00072572,  0.07816741]), array([0.00083762, 0.05858453]), array([0.00200932, 0.06063506]), array([0.00322202, 0.06735143]), array([0.00456904, 0.04863906]), array([0.00554183, 0.02089201]), array([0.00595967, 0.00213102]), array([0.00600229, 0.01578986]), array([0.00631808, 0.03940186]), array([ 0.00710612, -0.00840207]), array([0.00693808, 0.04751428]), array([0.00788837, 0.06753644]), array([0.00923909, 0.07894355]), array([0.01081796, 0.02629208]), array([0.01134381, 0.0294996 ]), array([0.0119338 , 0.02098013]), array([ 0.0123534 , -0.00325823]), array([0.01228824, 0.05087947]), array([0.01330583, 0.01239814]), array([ 0.01355379, -0.00771712]), array([0.01339945, 0.01059919]), array([ 0.01361143, -0.02473817]), array([0.01311667, 0.02208987]), array([0.01355846, 0.00042387]), array([0.01356694, 0.02997602]), array([0.01416646, 0.00136716]), array([0.0141938 , 0.04148648]), array([0.01502353, 0.03975355]), array([0.01581861, 0.03345412]), array([ 0.01648769, -0.00211685]), array([0.01644535, 0.0236394 ]), array([0.01691814, 0.01589372]), array([ 0.01723601, -0.01295861]), array([0.01697684, 0.01702676]), array([ 0.01731738, -0.0268313 ]), array([0.01678075, 0.02527428]), array([0.01728624, 0.01601671]), array([ 0.01760657, -0.01647105]), array([ 0.01727715, -0.02925956]), array([0.01669196, 0.00699083]), array([0.01683177, 0.02334546]), array([0.01729868, 0.00453567]), array([0.0173894 , 0.01923687]), array([ 0.01777413, -0.00641287]), array([ 0.01764588, -0.00423014]), array([ 0.01756127, -0.0375582 ]), array([ 0.01681011, -0.05172339]), array([ 0.01577564, -0.05405442]), array([ 0.01469455, -0.01905248]), array([0.0143135, 0.0361205]), array([0.01503591, 0.0034739 ]), array([ 0.01510539, -0.02317714]), array([ 0.01464185, -0.07460723]), array([ 0.01314971, -0.11944505]), array([ 0.0107608, -0.1470384]), array([ 0.00782004, -0.12264492])]
+200 : Simulated data
+200 0 19900
+Episode: 200, total numsteps: 20000, episode steps: 100, reward: -1.0
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0025411415100097656
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.69
+----------------------------------------
+201 : Simulated data
+201 0 20000
+Episode: 201, total numsteps: 20100, episode steps: 100, reward: -0.95
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0037267327308654783
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.54
+----------------------------------------
+202 : Simulated data
+202 0 20100
+Episode: 202, total numsteps: 20200, episode steps: 100, reward: -0.85
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.005558433532714843
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.12
+----------------------------------------
+203 : Simulated data
+203 0 20200
+Episode: 203, total numsteps: 20300, episode steps: 100, reward: -1.46
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0017122983932495116
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.98
+----------------------------------------
+204 : Simulated data
+204 0 20300
+Episode: 204, total numsteps: 20400, episode steps: 100, reward: -0.6
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0027831268310546877
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.57
+----------------------------------------
+205 : Simulated data
+205 0 20400
+Episode: 205, total numsteps: 20500, episode steps: 100, reward: -1.04
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.007333965301513672
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.8
+----------------------------------------
+206 : Simulated data
+206 0 20500
+Episode: 206, total numsteps: 20600, episode steps: 100, reward: -1.45
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0020517802238464358
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.58
+----------------------------------------
+207 : Simulated data
+207 0 20600
+Episode: 207, total numsteps: 20700, episode steps: 100, reward: -2.23
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004744126796722412
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.82
+----------------------------------------
+208 : Simulated data
+208 0 20700
+Episode: 208, total numsteps: 20800, episode steps: 100, reward: -1.69
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0038929152488708495
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.32
+----------------------------------------
+209 : Simulated data
+209 0 20800
+State stats: [-0.0237255 -0.0328687] [0.09714513 0.17061918]
+Action stats: [0.01206552] [0.56924779]
+Reward stats: -3.2728049436029694 7.487988297176931
+Computed error: 0.0375801307558189 ( 0.01612047049292542 0.021459660262893473 )
+Epoch: 0 tensor(0.0065)
+Epoch: 1 tensor(0.0011)
+Epoch: 2 tensor(0.0005)
+Epoch: 3 tensor(0.0003)
+Epoch: 4 tensor(0.0003)
+Epoch: 5 tensor(0.0002)
+Epoch: 6 tensor(0.0002)
+Epoch: 7 tensor(0.0002)
+Epoch: 8 tensor(0.0002)
+Epoch: 9 tensor(0.0001)
+Epoch: 10 tensor(0.0001)
+Epoch: 11 tensor(0.0001)
+Epoch: 12 tensor(0.0001)
+Epoch: 13 tensor(0.0001)
+Epoch: 14 tensor(9.7965e-05)
+Epoch: 15 tensor(9.5769e-05)
+Epoch: 16 tensor(8.9038e-05)
+Epoch: 17 tensor(8.5192e-05)
+Epoch: 18 tensor(8.1593e-05)
+Epoch: 19 tensor(7.8418e-05)
+Epoch: 20 tensor(7.6220e-05)
+Epoch: 21 tensor(7.4553e-05)
+Epoch: 22 tensor(7.5019e-05)
+Epoch: 23 tensor(7.0703e-05)
+Epoch: 24 tensor(6.8656e-05)
+Epoch: 25 tensor(6.7290e-05)
+Epoch: 26 tensor(6.6096e-05)
+Epoch: 27 tensor(7.3121e-05)
+Epoch: 28 tensor(6.4229e-05)
+Epoch: 29 tensor(6.4404e-05)
+Epoch: 30 tensor(6.4043e-05)
+Epoch: 31 tensor(6.2068e-05)
+Epoch: 32 tensor(5.9588e-05)
+Epoch: 33 tensor(5.9135e-05)
+Epoch: 34 tensor(5.8555e-05)
+Epoch: 35 tensor(6.1491e-05)
+Epoch: 36 tensor(5.6975e-05)
+Epoch: 37 tensor(5.5411e-05)
+Epoch: 38 tensor(5.4638e-05)
+Epoch: 39 tensor(5.4705e-05)
+Epoch: 40 tensor(5.3630e-05)
+Epoch: 41 tensor(5.2601e-05)
+Epoch: 42 tensor(5.4250e-05)
+Epoch: 43 tensor(5.1289e-05)
+Epoch: 44 tensor(5.1442e-05)
+Epoch: 45 tensor(5.0089e-05)
+Epoch: 46 tensor(5.4603e-05)
+Epoch: 47 tensor(4.9926e-05)
+Epoch: 48 tensor(4.9269e-05)
+Epoch: 49 tensor(4.9025e-05)
+Epoch: 50 tensor(4.7509e-05)
+Epoch: 51 tensor(4.6629e-05)
+Epoch: 52 tensor(4.6207e-05)
+Epoch: 53 tensor(4.6023e-05)
+Epoch: 54 tensor(4.9081e-05)
+Epoch: 55 tensor(4.4673e-05)
+Epoch: 56 tensor(4.4129e-05)
+Epoch: 57 tensor(4.3822e-05)
+Epoch: 58 tensor(4.4056e-05)
+Epoch: 59 tensor(4.2693e-05)
+Epoch: 60 tensor(4.3161e-05)
+Epoch: 61 tensor(4.1730e-05)
+Epoch: 62 tensor(4.2362e-05)
+Epoch: 63 tensor(4.5536e-05)
+Epoch: 64 tensor(4.0501e-05)
+Epoch: 65 tensor(4.1326e-05)
+Epoch: 66 tensor(3.9349e-05)
+Epoch: 67 tensor(4.1724e-05)
+Epoch: 68 tensor(3.9331e-05)
+Epoch: 69 tensor(3.8537e-05)
+Epoch: 70 tensor(3.8727e-05)
+Epoch: 71 tensor(3.7654e-05)
+Epoch: 72 tensor(3.8383e-05)
+Epoch: 73 tensor(3.8885e-05)
+Epoch: 74 tensor(3.7828e-05)
+Epoch: 75 tensor(3.7666e-05)
+Epoch: 76 tensor(3.5649e-05)
+Epoch: 77 tensor(3.5488e-05)
+Epoch: 78 tensor(3.6184e-05)
+Epoch: 79 tensor(3.5825e-05)
+Epoch: 80 tensor(3.5217e-05)
+Epoch: 81 tensor(3.4117e-05)
+Epoch: 82 tensor(3.3669e-05)
+Epoch: 83 tensor(3.3263e-05)
+Epoch: 84 tensor(3.3295e-05)
+Epoch: 85 tensor(3.4111e-05)
+Epoch: 86 tensor(3.2421e-05)
+Epoch: 87 tensor(3.2116e-05)
+Epoch: 88 tensor(3.3536e-05)
+Epoch: 89 tensor(3.1520e-05)
+Epoch: 90 tensor(3.1220e-05)
+Epoch: 91 tensor(3.1458e-05)
+Epoch: 92 tensor(3.1211e-05)
+Epoch: 93 tensor(3.0462e-05)
+Epoch: 94 tensor(3.2380e-05)
+Epoch: 95 tensor(3.0303e-05)
+Epoch: 96 tensor(3.0268e-05)
+Epoch: 97 tensor(3.0387e-05)
+Epoch: 98 tensor(2.8965e-05)
+Epoch: 99 tensor(3.0148e-05)
+Epoch: 0 tensor(0.3435)
+Epoch: 1 tensor(0.3267)
+Epoch: 2 tensor(0.3153)
+Epoch: 3 tensor(0.3138)
+Epoch: 4 tensor(0.3173)
+Epoch: 5 tensor(0.3106)
+Epoch: 6 tensor(0.3054)
+Epoch: 7 tensor(0.3024)
+Epoch: 8 tensor(0.2952)
+Epoch: 9 tensor(0.3002)
+Epoch: 10 tensor(0.3027)
+Epoch: 11 tensor(0.2941)
+Epoch: 12 tensor(0.2882)
+Epoch: 13 tensor(0.2979)
+Epoch: 14 tensor(0.2945)
+Epoch: 15 tensor(0.2882)
+Epoch: 16 tensor(0.2886)
+Epoch: 17 tensor(0.2844)
+Epoch: 18 tensor(0.2867)
+Epoch: 19 tensor(0.2889)
+Epoch: 20 tensor(0.2851)
+Epoch: 21 tensor(0.2773)
+Epoch: 22 tensor(0.2815)
+Epoch: 23 tensor(0.2830)
+Epoch: 24 tensor(0.2766)
+Epoch: 25 tensor(0.2840)
+Epoch: 26 tensor(0.2875)
+Epoch: 27 tensor(0.2794)
+Epoch: 28 tensor(0.2882)
+Epoch: 29 tensor(0.2714)
+Epoch: 30 tensor(0.2699)
+Epoch: 31 tensor(0.2773)
+Epoch: 32 tensor(0.2767)
+Epoch: 33 tensor(0.2707)
+Epoch: 34 tensor(0.2758)
+Epoch: 35 tensor(0.2804)
+Epoch: 36 tensor(0.2679)
+Epoch: 37 tensor(0.2770)
+Epoch: 38 tensor(0.2735)
+Epoch: 39 tensor(0.2748)
+Epoch: 40 tensor(0.2745)
+Epoch: 41 tensor(0.2747)
+Epoch: 42 tensor(0.2704)
+Epoch: 43 tensor(0.2662)
+Epoch: 44 tensor(0.2678)
+Epoch: 45 tensor(0.2646)
+Epoch: 46 tensor(0.2740)
+Epoch: 47 tensor(0.2620)
+Epoch: 48 tensor(0.2753)
+Epoch: 49 tensor(0.2701)
+Epoch: 50 tensor(0.2601)
+Epoch: 51 tensor(0.2680)
+Epoch: 52 tensor(0.2606)
+Epoch: 53 tensor(0.2691)
+Epoch: 54 tensor(0.2610)
+Epoch: 55 tensor(0.2637)
+Epoch: 56 tensor(0.2599)
+Epoch: 57 tensor(0.2658)
+Epoch: 58 tensor(0.2589)
+Epoch: 59 tensor(0.2610)
+Epoch: 60 tensor(0.2538)
+Epoch: 61 tensor(0.2526)
+Epoch: 62 tensor(0.2583)
+Epoch: 63 tensor(0.2535)
+Epoch: 64 tensor(0.2539)
+Epoch: 65 tensor(0.2545)
+Epoch: 66 tensor(0.2509)
+Epoch: 67 tensor(0.2506)
+Epoch: 68 tensor(0.2501)
+Epoch: 69 tensor(0.2468)
+Epoch: 70 tensor(0.2472)
+Epoch: 71 tensor(0.2532)
+Epoch: 72 tensor(0.2442)
+Epoch: 73 tensor(0.2471)
+Epoch: 74 tensor(0.2465)
+Epoch: 75 tensor(0.2391)
+Epoch: 76 tensor(0.2418)
+Epoch: 77 tensor(0.2426)
+Epoch: 78 tensor(0.2466)
+Epoch: 79 tensor(0.2439)
+Epoch: 80 tensor(0.2465)
+Epoch: 81 tensor(0.2439)
+Epoch: 82 tensor(0.2438)
+Epoch: 83 tensor(0.2332)
+Epoch: 84 tensor(0.2355)
+Epoch: 85 tensor(0.2409)
+Epoch: 86 tensor(0.2317)
+Epoch: 87 tensor(0.2396)
+Epoch: 88 tensor(0.2319)
+Epoch: 89 tensor(0.2287)
+Epoch: 90 tensor(0.2359)
+Epoch: 91 tensor(0.2269)
+Epoch: 92 tensor(0.2336)
+Epoch: 93 tensor(0.2290)
+Epoch: 94 tensor(0.2277)
+Epoch: 95 tensor(0.2299)
+Epoch: 96 tensor(0.2260)
+Epoch: 97 tensor(0.2343)
+Epoch: 98 tensor(0.2263)
+Epoch: 99 tensor(0.2228)
+Earth Model
+-------------------------------------------------------
+Basis Function   Pruned  Coefficient 0  Coefficient 1  
+-------------------------------------------------------
+(Intercept)      No      0.375194       -0.196409      
+h(x1+0.526421)   No      0.0351267      1.0004         
+h(-0.526421-x1)  No      -0.0351267     -0.999596      
+h(x0-0.400452)   No      1              0.0269824      
+h(0.400452-x0)   No      -1             -0.0272081     
+h(x2-1.60787)    No      -3.04787e-15   0.202427       
+h(1.60787-x2)    No      -1.11022e-16   -0.200195      
+-------------------------------------------------------
+MSE: 0.0000, GCV: 0.0000, RSQ: 1.0000, GRSQ: 1.0000
+Basis:
+1.0
+h(x1 - -0.526421131683947)
+h(-0.526421131683947 - x1)
+h(x0 - 0.40045236893707314)
+h(0.40045236893707314 - x0)
+h(x2 - 1.6078696542442545)
+h(1.6078696542442545 - x2)
+Coeffs:
+[[0.37519402615867203, 0.035126659026926826, -0.03512665902692606, 1.0000000000000007, -1.0000000000000004, -3.047868489709782e-15, -1.1102230246251565e-16], [-0.19640907605745014, 1.0003984389708722, -0.9995962208673841, 0.026982370267560972, -0.027208093084516577, 0.20242656249198093, -0.2001954049309831]]
+Model MSE: 3.469482412189596e-07
+Earth Model
+---------------------------------------
+Basis Function    Pruned  Coefficient  
+---------------------------------------
+(Intercept)       No      1.56496      
+h(x1-0.246311)    No      -0.408152    
+h(0.246311-x1)    Yes     None         
+h(x1+2.01798)     Yes     None         
+h(-2.01798-x1)    No      1.17492      
+h(x0-0.0972307)   Yes     None         
+h(0.0972307-x0)   Yes     None         
+h(x0+0.705171)    No      1.18129      
+h(-0.705171-x0)   No      1.25583      
+h(x0+0.0948521)   Yes     None         
+h(-0.0948521-x0)  No      -2.54685     
+h(x0+2.37213)     No      -0.943201    
+h(-2.37213-x0)    Yes     None         
+h(x1+0.144395)    Yes     None         
+h(-0.144395-x1)   No      -0.764948    
+h(x1-3.75013)     No      1.6835       
+h(3.75013-x1)     Yes     None         
+h(x1-0.738264)    No      -0.73138     
+h(0.738264-x1)    Yes     None         
+h(x0-0.378322)    Yes     None         
+h(0.378322-x0)    No      0.730583     
+---------------------------------------
+MSE: 0.5816, GCV: 0.5882, RSQ: 0.4184, GRSQ: 0.4122
+Episode: 209, total numsteps: 20900, episode steps: 100, reward: -0.93
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0018447804450988769
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.49
+----------------------------------------
+210 : Simulated data
+210 0 20900
+Episode: 210, total numsteps: 21000, episode steps: 100, reward: -1.04
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0017131733894348144
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.58
+----------------------------------------
+211 : Simulated data
+211 0 21000
+Episode: 211, total numsteps: 21100, episode steps: 100, reward: -1.17
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0030090856552124024
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.31
+----------------------------------------
+212 : Simulated data
+212 0 21100
+Episode: 212, total numsteps: 21200, episode steps: 100, reward: -0.99
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004665470123291016
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.6
+----------------------------------------
+213 : Simulated data
+213 0 21200
+Episode: 213, total numsteps: 21300, episode steps: 100, reward: -2.08
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.005749235153198242
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.92
+----------------------------------------
+214 : Simulated data
+214 0 21300
+Episode: 214, total numsteps: 21400, episode steps: 100, reward: -1.72
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0029192876815795897
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.59
+----------------------------------------
+215 : Simulated data
+215 0 21400
+Episode: 215, total numsteps: 21500, episode steps: 100, reward: -1.87
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0018405914306640625
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.95
+----------------------------------------
+216 : Simulated data
+216 0 21500
+Episode: 216, total numsteps: 21600, episode steps: 100, reward: -0.51
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0019676542282104493
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.85
+----------------------------------------
+217 : Simulated data
+217 0 21600
+Episode: 217, total numsteps: 21700, episode steps: 100, reward: -0.61
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0026076769828796385
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.07
+----------------------------------------
+218 : Simulated data
+218 0 21700
+Episode: 218, total numsteps: 21800, episode steps: 100, reward: -2.05
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0023791956901550292
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.55
+----------------------------------------
+219 : Simulated data
+219 0 21800
+Episode: 219, total numsteps: 21900, episode steps: 100, reward: -1.0
+starting testing...
+Finished test episode: 3 shield and 97 neural
+Average time: 0.02926518678665161
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.04
+----------------------------------------
+220 : Simulated data
+220 0 21900
+Episode: 220, total numsteps: 22000, episode steps: 100, reward: -2.39
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.025314419269561766
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.2
+----------------------------------------
+221 : Simulated data
+221 0 22000
+Episode: 221, total numsteps: 22100, episode steps: 100, reward: -1.87
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.028954293727874756
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.43
+----------------------------------------
+222 : Simulated data
+222 0 22100
+Episode: 222, total numsteps: 22200, episode steps: 100, reward: -0.58
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.026221754550933837
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.16
+----------------------------------------
+223 : Simulated data
+223 0 22200
+Episode: 223, total numsteps: 22300, episode steps: 100, reward: -1.93
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.028832426071166994
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.59
+----------------------------------------
+224 : Simulated data
+224 0 22300
+Episode: 224, total numsteps: 22400, episode steps: 100, reward: -0.95
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.025632903575897217
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.78
+----------------------------------------
+225 : Simulated data
+225 0 22400
+Episode: 225, total numsteps: 22500, episode steps: 100, reward: -0.61
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.02718716859817505
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.77
+----------------------------------------
+226 : Simulated data
+226 0 22500
+Episode: 226, total numsteps: 22600, episode steps: 100, reward: -1.05
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.025386104583740233
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.38
+----------------------------------------
+227 : Simulated data
+227 0 22600
+Episode: 227, total numsteps: 22700, episode steps: 100, reward: -0.83
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.025207006931304933
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.27
+----------------------------------------
+228 : Simulated data
+228 0 22700
+Episode: 228, total numsteps: 22800, episode steps: 100, reward: -0.54
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.024995615482330324
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.37
+----------------------------------------
+229 : Simulated data
+229 0 22800
+Episode: 229, total numsteps: 22900, episode steps: 100, reward: -0.55
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.024831831455230713
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.45
+----------------------------------------
+230 : Simulated data
+230 0 22900
+Episode: 230, total numsteps: 23000, episode steps: 100, reward: -0.98
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.026821098327636718
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.97
+----------------------------------------
+231 : Simulated data
+231 0 23000
+Episode: 231, total numsteps: 23100, episode steps: 100, reward: -0.6
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.023208680152893065
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.68
+----------------------------------------
+232 : Simulated data
+232 0 23100
+Episode: 232, total numsteps: 23200, episode steps: 100, reward: -0.5
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.024701502323150635
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.56
+----------------------------------------
+233 : Simulated data
+233 0 23200
+Episode: 233, total numsteps: 23300, episode steps: 100, reward: -0.76
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.02151993989944458
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.83
+----------------------------------------
+234 : Simulated data
+234 0 23300
+Episode: 234, total numsteps: 23400, episode steps: 100, reward: -0.72
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.027669994831085204
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.32
+----------------------------------------
+235 : Simulated data
+235 0 23400
+Episode: 235, total numsteps: 23500, episode steps: 100, reward: -0.41
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.025300347805023195
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.82
+----------------------------------------
+236 : Simulated data
+236 0 23500
+Episode: 236, total numsteps: 23600, episode steps: 100, reward: -1.52
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.023646974563598634
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.46
+----------------------------------------
+237 : Simulated data
+237 0 23600
+Episode: 237, total numsteps: 23700, episode steps: 100, reward: -1.13
+starting testing...
+Finished test episode: 2 shield and 98 neural
+Average time: 0.025161538124084473
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.73
+----------------------------------------
+238 : Simulated data
+238 0 23700
+Episode: 238, total numsteps: 23800, episode steps: 100, reward: -1.77
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.02417603015899658
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.6
+----------------------------------------
+239 : Simulated data
+239 0 23800
+Episode: 239, total numsteps: 23900, episode steps: 100, reward: -2.32
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.026718125343322754
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.29
+----------------------------------------
+240 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.014519782066345214
+Episode: 240, total numsteps: 24000, episode steps: 100, reward: -1.94
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.025174729824066162
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.25
+----------------------------------------
+241 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.012623608112335205
+Episode: 241, total numsteps: 24100, episode steps: 100, reward: -0.87
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.02689915418624878
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.12
+----------------------------------------
+242 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.01114476203918457
+Episode: 242, total numsteps: 24200, episode steps: 100, reward: -1.99
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.026103651523590087
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.92
+----------------------------------------
+243 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.014292826652526855
+Episode: 243, total numsteps: 24300, episode steps: 100, reward: -2.72
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.029458773136138917
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.98
+----------------------------------------
+244 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.013384432792663574
+Episode: 244, total numsteps: 24400, episode steps: 100, reward: -0.8
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.02894956827163696
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.62
+----------------------------------------
+245 : Real data
+Shield steps: 1   Neural steps: 99
+Average time: 0.014126274585723877
+Episode: 245, total numsteps: 24500, episode steps: 100, reward: -1.0
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.024264726638793945
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.28
+----------------------------------------
+246 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.013930611610412598
+Episode: 246, total numsteps: 24600, episode steps: 100, reward: -2.92
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.025531694889068604
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.0
+----------------------------------------
+247 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.01117605447769165
+Episode: 247, total numsteps: 24700, episode steps: 100, reward: -1.15
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003395397663116455
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -4.22
+----------------------------------------
+248 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.0049028491973876955
+Episode: 248, total numsteps: 24800, episode steps: 100, reward: -2.0
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.009464364051818847
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.53
+----------------------------------------
+249 : Real data
+Shield steps: 1   Neural steps: 99
+Average time: 0.004599895477294922
+Episode: 249, total numsteps: 24900, episode steps: 100, reward: -1.11
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0034238457679748534
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.79
+----------------------------------------
+250 : Simulated data
+250 0 24900
+Episode: 250, total numsteps: 25000, episode steps: 100, reward: -1.23
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.014027199745178222
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.5
+----------------------------------------
+251 : Simulated data
+251 0 25000
+Episode: 251, total numsteps: 25100, episode steps: 100, reward: -4.47
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.008676419258117676
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.89
+----------------------------------------
+252 : Simulated data
+252 0 25100
+Episode: 252, total numsteps: 25200, episode steps: 100, reward: -2.84
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0023997712135314943
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.63
+----------------------------------------
+253 : Simulated data
+253 0 25200
+Episode: 253, total numsteps: 25300, episode steps: 100, reward: -1.46
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.005302662849426269
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.95
+----------------------------------------
+254 : Simulated data
+254 0 25300
+Episode: 254, total numsteps: 25400, episode steps: 100, reward: -2.14
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0026577115058898926
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -6.81
+----------------------------------------
+255 : Simulated data
+255 0 25400
+Episode: 255, total numsteps: 25500, episode steps: 100, reward: -4.33
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0023899149894714357
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.98
+----------------------------------------
+256 : Simulated data
+256 0 25500
+Episode: 256, total numsteps: 25600, episode steps: 100, reward: -3.12
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0039804172515869145
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.16
+----------------------------------------
+257 : Simulated data
+257 0 25600
+Episode: 257, total numsteps: 25700, episode steps: 100, reward: -5.07
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0026514315605163574
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -4.74
+----------------------------------------
+258 : Simulated data
+258 0 25700
+Episode: 258, total numsteps: 25800, episode steps: 100, reward: -3.84
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003186495304107666
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.9
+----------------------------------------
+259 : Simulated data
+259 0 25800
+Episode: 259, total numsteps: 25900, episode steps: 100, reward: -5.48
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0027828264236450196
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.62
+----------------------------------------
+260 : Simulated data
+260 0 25900
+Episode: 260, total numsteps: 26000, episode steps: 100, reward: -4.34
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0016735219955444336
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.66
+----------------------------------------
+261 : Simulated data
+261 0 26000
+Episode: 261, total numsteps: 26100, episode steps: 100, reward: -6.75
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003508727550506592
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -5.25
+----------------------------------------
+262 : Simulated data
+262 0 26100
+Episode: 262, total numsteps: 26200, episode steps: 100, reward: -4.51
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004749681949615479
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -4.14
+----------------------------------------
+263 : Simulated data
+263 0 26200
+Episode: 263, total numsteps: 26300, episode steps: 100, reward: -4.18
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004530327320098877
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.32
+----------------------------------------
+264 : Simulated data
+264 0 26300
+Episode: 264, total numsteps: 26400, episode steps: 100, reward: -4.48
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0025020408630371093
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -4.43
+----------------------------------------
+265 : Simulated data
+265 0 26400
+Episode: 265, total numsteps: 26500, episode steps: 100, reward: -2.69
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0016944050788879395
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -8.97
+----------------------------------------
+266 : Simulated data
+266 0 26500
+Episode: 266, total numsteps: 26600, episode steps: 100, reward: -5.01
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0015107917785644532
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -4.15
+----------------------------------------
+267 : Simulated data
+267 0 26600
+Episode: 267, total numsteps: 26700, episode steps: 100, reward: -4.88
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0031191253662109374
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.98
+----------------------------------------
+268 : Simulated data
+268 0 26700
+Episode: 268, total numsteps: 26800, episode steps: 100, reward: -3.08
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004765784740447998
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -5.29
+----------------------------------------
+269 : Simulated data
+269 0 26800
+Episode: 269, total numsteps: 26900, episode steps: 100, reward: -4.08
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003119370937347412
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -4.47
+----------------------------------------
+270 : Simulated data
+270 0 26900
+Episode: 270, total numsteps: 27000, episode steps: 100, reward: -2.7
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0017226243019104004
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -3.08
+----------------------------------------
+271 : Simulated data
+271 0 27000
+Episode: 271, total numsteps: 27100, episode steps: 100, reward: -2.96
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0013702082633972167
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.67
+----------------------------------------
+272 : Simulated data
+272 0 27100
+Episode: 272, total numsteps: 27200, episode steps: 100, reward: -1.22
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002501561641693115
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.72
+----------------------------------------
+273 : Simulated data
+273 0 27200
+Episode: 273, total numsteps: 27300, episode steps: 100, reward: -1.34
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0019936347007751464
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.65
+----------------------------------------
+274 : Simulated data
+274 0 27300
+Episode: 274, total numsteps: 27400, episode steps: 100, reward: -1.02
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002397353649139404
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.37
+----------------------------------------
+275 : Simulated data
+275 0 27400
+Episode: 275, total numsteps: 27500, episode steps: 100, reward: -1.91
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002469792366027832
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.06
+----------------------------------------
+276 : Simulated data
+276 0 27500
+Episode: 276, total numsteps: 27600, episode steps: 100, reward: -1.12
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002056686878204346
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.45
+----------------------------------------
+277 : Simulated data
+277 0 27600
+Episode: 277, total numsteps: 27700, episode steps: 100, reward: -0.88
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002309260368347168
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.43
+----------------------------------------
+278 : Simulated data
+278 0 27700
+Episode: 278, total numsteps: 27800, episode steps: 100, reward: -0.41
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0016992855072021484
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.41
+----------------------------------------
+279 : Simulated data
+279 0 27800
+Episode: 279, total numsteps: 27900, episode steps: 100, reward: -0.67
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0031739592552185057
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.79
+----------------------------------------
+280 : Simulated data
+280 0 27900
+Episode: 280, total numsteps: 28000, episode steps: 100, reward: -1.35
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002814598083496094
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.39
+----------------------------------------
+281 : Simulated data
+281 0 28000
+Episode: 281, total numsteps: 28100, episode steps: 100, reward: -0.69
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.009975476264953613
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.06
+----------------------------------------
+282 : Simulated data
+282 0 28100
+Episode: 282, total numsteps: 28200, episode steps: 100, reward: -0.44
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.011023871898651123
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.63
+----------------------------------------
+283 : Simulated data
+283 0 28200
+Episode: 283, total numsteps: 28300, episode steps: 100, reward: -0.67
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0017540192604064942
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.39
+----------------------------------------
+284 : Simulated data
+284 0 28300
+Episode: 284, total numsteps: 28400, episode steps: 100, reward: -0.75
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.007003147602081299
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.31
+----------------------------------------
+285 : Simulated data
+285 0 28400
+Episode: 285, total numsteps: 28500, episode steps: 100, reward: -0.49
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.006440281867980957
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.2
+----------------------------------------
+286 : Simulated data
+286 0 28500
+Episode: 286, total numsteps: 28600, episode steps: 100, reward: -1.09
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.006571013927459717
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.45
+----------------------------------------
+287 : Simulated data
+287 0 28600
+Episode: 287, total numsteps: 28700, episode steps: 100, reward: -0.43
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0034304141998291017
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.23
+----------------------------------------
+288 : Simulated data
+288 0 28700
+Episode: 288, total numsteps: 28800, episode steps: 100, reward: -0.46
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0030682206153869627
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.43
+----------------------------------------
+289 : Simulated data
+289 0 28800
+Episode: 289, total numsteps: 28900, episode steps: 100, reward: -1.08
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002271924018859863
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.15
+----------------------------------------
+290 : Simulated data
+290 0 28900
+Episode: 290, total numsteps: 29000, episode steps: 100, reward: -0.44
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.006582682132720947
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.37
+----------------------------------------
+291 : Simulated data
+291 0 29000
+Episode: 291, total numsteps: 29100, episode steps: 100, reward: -0.82
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0017250633239746093
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.15
+----------------------------------------
+292 : Simulated data
+292 0 29100
+Episode: 292, total numsteps: 29200, episode steps: 100, reward: -0.56
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.005532529354095459
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.46
+----------------------------------------
+293 : Simulated data
+293 0 29200
+Episode: 293, total numsteps: 29300, episode steps: 100, reward: -1.04
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001664912700653076
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.0
+----------------------------------------
+294 : Simulated data
+294 0 29300
+Episode: 294, total numsteps: 29400, episode steps: 100, reward: -0.59
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.013985657691955566
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.93
+----------------------------------------
+295 : Simulated data
+295 0 29400
+Episode: 295, total numsteps: 29500, episode steps: 100, reward: -0.59
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001945345401763916
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.31
+----------------------------------------
+296 : Simulated data
+296 0 29500
+Episode: 296, total numsteps: 29600, episode steps: 100, reward: -0.56
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0054368901252746585
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.35
+----------------------------------------
+297 : Simulated data
+297 0 29600
+Episode: 297, total numsteps: 29700, episode steps: 100, reward: -1.1
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0016644334793090821
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.55
+----------------------------------------
+298 : Simulated data
+298 0 29700
+Episode: 298, total numsteps: 29800, episode steps: 100, reward: -0.82
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.005634596347808838
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.42
+----------------------------------------
+299 : Simulated data
+299 0 29800
+Episode: 299, total numsteps: 29900, episode steps: 100, reward: -0.91
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0021465206146240234
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.64
+----------------------------------------
+Trajectory:
+[array([ 0.00978589, -0.00033273], dtype=float32), array([ 0.00977923, -0.02284781]), array([0.00932228, 0.0029679 ]), array([ 0.00938164, -0.04341847]), array([ 0.00851327, -0.06238124]), array([ 0.00726564, -0.04736879]), array([ 0.00631827, -0.06850098]), array([ 0.00494825, -0.12164475]), array([ 0.00251535, -0.08118698]), array([ 0.00089161, -0.05645502]), array([-0.00023749, -0.03217082]), array([-0.00088091,  0.00295473]), array([-0.00082181,  0.04124054]), array([3.00024780e-06, 1.44325029e-02]), array([0.00029165, 0.04776946]), array([0.00124704, 0.05614994]), array([0.00237004, 0.09079991]), array([0.00418604, 0.06765088]), array([0.00553905, 0.05080755]), array([0.00655521, 0.00840925]), array([0.00672339, 0.00572694]), array([0.00683793, 0.04633507]), array([0.00776463, 0.0096797 ]), array([ 0.00795822, -0.00227611]), array([ 0.0079127 , -0.01741176]), array([ 0.00756447, -0.05290459]), array([ 0.00650638, -0.01975655]), array([ 0.00611124, -0.01667082]), array([ 0.00577783, -0.06445709]), array([ 0.00448869, -0.06631364]), array([ 0.00316241, -0.09484615]), array([ 0.00126549, -0.12386223]), array([-0.00121175, -0.07747759]), array([-0.00276131, -0.02880437]), array([-0.00333739, -0.02840286]), array([-0.00390545,  0.01666396]), array([-0.00357217, -0.00596307]), array([-0.00369143, -0.01034164]), array([-0.00389827, -0.00659854]), array([-0.00403024, -0.00444375]), array([-0.00411911, -0.00643667]), array([-0.00424785, -0.00197568]), array([-0.00428736,  0.0234787 ]), array([-0.00381779, -0.01061285]), array([-0.00403004,  0.04309917]), array([-0.00316806, -0.00468905]), array([-0.00326184, -0.02957617]), array([-0.00385336,  0.00372906]), array([-0.00377878,  0.01942945]), array([-0.00339019, -0.01852978]), array([-0.00376079,  0.02629298]), array([-0.00323493,  0.0612263 ]), array([-0.0020104 ,  0.09540413]), array([-0.00010232,  0.08561408]), array([0.00160996, 0.07958995]), array([0.00320176, 0.05313249]), array([0.00426441, 0.0517074 ]), array([ 0.00529856, -0.00284339]), array([0.00524169, 0.03009134]), array([ 0.00584352, -0.01114086]), array([0.0056207, 0.03976  ]), array([0.0064159, 0.009817 ]), array([ 0.00661224, -0.02823478]), array([ 0.00604754, -0.02770232]), array([ 0.0054935 , -0.04671098]), array([ 0.00455928, -0.04608279]), array([ 0.00363762, -0.06424303]), array([ 0.00235276, -0.02402853]), array([ 0.00187219, -0.01988013]), array([0.00147459, 0.03496964]), array([0.00217398, 0.04956803]), array([0.00316534, 0.02975125]), array([ 0.00376037, -0.00555953]), array([ 0.00364918, -0.01275714]), array([0.00339403, 0.01336629]), array([0.00366136, 0.03320619]), array([0.00432548, 0.01718148]), array([0.00466911, 0.00162488]), array([ 0.00470161, -0.01404726]), array([ 0.00442067, -0.02767418]), array([0.00386718, 0.02302791]), array([0.00432774, 0.06814622]), array([0.00569066, 0.10670911]), array([0.00782485, 0.11218014]), array([0.01006845, 0.06831382]), array([0.01143473, 0.09846196]), array([0.01340396, 0.0522369 ]), array([0.0144487 , 0.08136506]), array([0.016076  , 0.07102041]), array([0.01749641, 0.01688367]), array([0.01783409, 0.04799751]), array([ 0.01879404, -0.00845309]), array([0.01862497, 0.0222529 ]), array([0.01907003, 0.0016295 ]), array([ 0.01910262, -0.02951297]), array([0.01851236, 0.01333288]), array([ 0.01877902, -0.0026474 ]), array([0.01872607, 0.0191705 ]), array([ 0.01910948, -0.02880564]), array([ 0.01853337, -0.0486177 ])]
+300 : Simulated data
+300 0 29900
+Episode: 300, total numsteps: 30000, episode steps: 100, reward: -0.8
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0033611130714416505
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.59
+----------------------------------------
+301 : Simulated data
+301 0 30000
+Episode: 301, total numsteps: 30100, episode steps: 100, reward: -1.16
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0016344428062438966
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.59
+----------------------------------------
+302 : Simulated data
+302 0 30100
+Episode: 302, total numsteps: 30200, episode steps: 100, reward: -0.64
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0018888020515441895
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.65
+----------------------------------------
+303 : Simulated data
+303 0 30200
+Episode: 303, total numsteps: 30300, episode steps: 100, reward: -0.47
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004921779632568359
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.85
+----------------------------------------
+304 : Simulated data
+304 0 30300
+Episode: 304, total numsteps: 30400, episode steps: 100, reward: -1.2
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002490100860595703
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.21
+----------------------------------------
+305 : Simulated data
+305 0 30400
+Episode: 305, total numsteps: 30500, episode steps: 100, reward: -0.97
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.005245797634124756
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.45
+----------------------------------------
+306 : Simulated data
+306 0 30500
+Episode: 306, total numsteps: 30600, episode steps: 100, reward: -1.11
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002125225067138672
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.66
+----------------------------------------
+307 : Simulated data
+307 0 30600
+Episode: 307, total numsteps: 30700, episode steps: 100, reward: -0.59
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0026212120056152343
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.93
+----------------------------------------
+308 : Simulated data
+308 0 30700
+Episode: 308, total numsteps: 30800, episode steps: 100, reward: -0.49
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0038448071479797365
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.74
+----------------------------------------
+309 : Simulated data
+309 0 30800
+State stats: [-0.0135342  -0.02134934] [0.08556923 0.14958949]
+Action stats: [0.00615249] [0.54625482]
+Reward stats: -2.427298536113775 6.596724981297622
+Computed error: 0.040109948461148126 ( 0.01865028819825465 0.021459660262893473 )
+Epoch: 0 tensor(0.0032)
+Epoch: 1 tensor(0.0003)
+Epoch: 2 tensor(0.0002)
+Epoch: 3 tensor(0.0002)
+Epoch: 4 tensor(0.0002)
+Epoch: 5 tensor(0.0002)
+Epoch: 6 tensor(0.0002)
+Epoch: 7 tensor(0.0002)
+Epoch: 8 tensor(0.0002)
+Epoch: 9 tensor(0.0001)
+Epoch: 10 tensor(0.0001)
+Epoch: 11 tensor(0.0001)
+Epoch: 12 tensor(0.0001)
+Epoch: 13 tensor(0.0001)
+Epoch: 14 tensor(0.0001)
+Epoch: 15 tensor(0.0001)
+Epoch: 16 tensor(0.0001)
+Epoch: 17 tensor(0.0001)
+Epoch: 18 tensor(0.0001)
+Epoch: 19 tensor(0.0001)
+Epoch: 20 tensor(0.0001)
+Epoch: 21 tensor(0.0001)
+Epoch: 22 tensor(9.9652e-05)
+Epoch: 23 tensor(9.7474e-05)
+Epoch: 24 tensor(9.3764e-05)
+Epoch: 25 tensor(9.3039e-05)
+Epoch: 26 tensor(9.0904e-05)
+Epoch: 27 tensor(9.1588e-05)
+Epoch: 28 tensor(9.7180e-05)
+Epoch: 29 tensor(8.4470e-05)
+Epoch: 30 tensor(8.1219e-05)
+Epoch: 31 tensor(8.0693e-05)
+Epoch: 32 tensor(7.7687e-05)
+Epoch: 33 tensor(7.5456e-05)
+Epoch: 34 tensor(7.4147e-05)
+Epoch: 35 tensor(7.2450e-05)
+Epoch: 36 tensor(7.1424e-05)
+Epoch: 37 tensor(6.9144e-05)
+Epoch: 38 tensor(6.7690e-05)
+Epoch: 39 tensor(6.6966e-05)
+Epoch: 40 tensor(6.7067e-05)
+Epoch: 41 tensor(6.5169e-05)
+Epoch: 42 tensor(6.2398e-05)
+Epoch: 43 tensor(6.1385e-05)
+Epoch: 44 tensor(5.9260e-05)
+Epoch: 45 tensor(5.8613e-05)
+Epoch: 46 tensor(5.7796e-05)
+Epoch: 47 tensor(5.6477e-05)
+Epoch: 48 tensor(5.5769e-05)
+Epoch: 49 tensor(5.3969e-05)
+Epoch: 50 tensor(5.3443e-05)
+Epoch: 51 tensor(5.2058e-05)
+Epoch: 52 tensor(5.0865e-05)
+Epoch: 53 tensor(4.9705e-05)
+Epoch: 54 tensor(4.9455e-05)
+Epoch: 55 tensor(4.8248e-05)
+Epoch: 56 tensor(4.7977e-05)
+Epoch: 57 tensor(4.6709e-05)
+Epoch: 58 tensor(5.4642e-05)
+Epoch: 59 tensor(4.5008e-05)
+Epoch: 60 tensor(4.4582e-05)
+Epoch: 61 tensor(4.3349e-05)
+Epoch: 62 tensor(4.2513e-05)
+Epoch: 63 tensor(4.6122e-05)
+Epoch: 64 tensor(4.1571e-05)
+Epoch: 65 tensor(4.0391e-05)
+Epoch: 66 tensor(4.4323e-05)
+Epoch: 67 tensor(3.9537e-05)
+Epoch: 68 tensor(3.9667e-05)
+Epoch: 69 tensor(3.7974e-05)
+Epoch: 70 tensor(3.7654e-05)
+Epoch: 71 tensor(3.6709e-05)
+Epoch: 72 tensor(3.6138e-05)
+Epoch: 73 tensor(3.6474e-05)
+Epoch: 74 tensor(3.5516e-05)
+Epoch: 75 tensor(3.5361e-05)
+Epoch: 76 tensor(3.4738e-05)
+Epoch: 77 tensor(3.3953e-05)
+Epoch: 78 tensor(3.3941e-05)
+Epoch: 79 tensor(3.3750e-05)
+Epoch: 80 tensor(3.2583e-05)
+Epoch: 81 tensor(3.2956e-05)
+Epoch: 82 tensor(3.1681e-05)
+Epoch: 83 tensor(3.1837e-05)
+Epoch: 84 tensor(3.1113e-05)
+Epoch: 85 tensor(3.0483e-05)
+Epoch: 86 tensor(3.1705e-05)
+Epoch: 87 tensor(3.0141e-05)
+Epoch: 88 tensor(2.9847e-05)
+Epoch: 89 tensor(2.9383e-05)
+Epoch: 90 tensor(2.8775e-05)
+Epoch: 91 tensor(2.8688e-05)
+Epoch: 92 tensor(2.8129e-05)
+Epoch: 93 tensor(2.7784e-05)
+Epoch: 94 tensor(2.7534e-05)
+Epoch: 95 tensor(2.7121e-05)
+Epoch: 96 tensor(2.7295e-05)
+Epoch: 97 tensor(2.7620e-05)
+Epoch: 98 tensor(2.6278e-05)
+Epoch: 99 tensor(2.6646e-05)
+Epoch: 0 tensor(0.3265)
+Epoch: 1 tensor(0.3170)
+Epoch: 2 tensor(0.2715)
+Epoch: 3 tensor(0.2872)
+Epoch: 4 tensor(0.2830)
+Epoch: 5 tensor(0.2733)
+Epoch: 6 tensor(0.2591)
+Epoch: 7 tensor(0.2766)
+Epoch: 8 tensor(0.2810)
+Epoch: 9 tensor(0.2557)
+Epoch: 10 tensor(0.2746)
+Epoch: 11 tensor(0.2538)
+Epoch: 12 tensor(0.2527)
+Epoch: 13 tensor(0.2519)
+Epoch: 14 tensor(0.2711)
+Epoch: 15 tensor(0.2783)
+Epoch: 16 tensor(0.2485)
+Epoch: 17 tensor(0.2476)
+Epoch: 18 tensor(0.2470)
+Epoch: 19 tensor(0.2475)
+Epoch: 20 tensor(0.2447)
+Epoch: 21 tensor(0.2589)
+Epoch: 22 tensor(0.2531)
+Epoch: 23 tensor(0.2457)
+Epoch: 24 tensor(0.2472)
+Epoch: 25 tensor(0.2413)
+Epoch: 26 tensor(0.2812)
+Epoch: 27 tensor(0.2603)
+Epoch: 28 tensor(0.2590)
+Epoch: 29 tensor(0.2389)
+Epoch: 30 tensor(0.2379)
+Epoch: 31 tensor(0.2376)
+Epoch: 32 tensor(0.2418)
+Epoch: 33 tensor(0.2359)
+Epoch: 34 tensor(0.2551)
+Epoch: 35 tensor(0.2469)
+Epoch: 36 tensor(0.2386)
+Epoch: 37 tensor(0.2331)
+Epoch: 38 tensor(0.2325)
+Epoch: 39 tensor(0.2383)
+Epoch: 40 tensor(0.2492)
+Epoch: 41 tensor(0.2306)
+Epoch: 42 tensor(0.2303)
+Epoch: 43 tensor(0.2460)
+Epoch: 44 tensor(0.2285)
+Epoch: 45 tensor(0.2478)
+Epoch: 46 tensor(0.2280)
+Epoch: 47 tensor(0.2522)
+Epoch: 48 tensor(0.2264)
+Epoch: 49 tensor(0.2268)
+Epoch: 50 tensor(0.2423)
+Epoch: 51 tensor(0.2242)
+Epoch: 52 tensor(0.2237)
+Epoch: 53 tensor(0.2342)
+Epoch: 54 tensor(0.2262)
+Epoch: 55 tensor(0.2371)
+Epoch: 56 tensor(0.2208)
+Epoch: 57 tensor(0.2260)
+Epoch: 58 tensor(0.2196)
+Epoch: 59 tensor(0.2187)
+Epoch: 60 tensor(0.2377)
+Epoch: 61 tensor(0.2182)
+Epoch: 62 tensor(0.2168)
+Epoch: 63 tensor(0.2284)
+Epoch: 64 tensor(0.2356)
+Epoch: 65 tensor(0.2327)
+Epoch: 66 tensor(0.2154)
+Epoch: 67 tensor(0.2137)
+Epoch: 68 tensor(0.2138)
+Epoch: 69 tensor(0.2278)
+Epoch: 70 tensor(0.2250)
+Epoch: 71 tensor(0.2114)
+Epoch: 72 tensor(0.2263)
+Epoch: 73 tensor(0.2103)
+Epoch: 74 tensor(0.2097)
+Epoch: 75 tensor(0.2089)
+Epoch: 76 tensor(0.2084)
+Epoch: 77 tensor(0.2079)
+Epoch: 78 tensor(0.2071)
+Epoch: 79 tensor(0.2065)
+Epoch: 80 tensor(0.2067)
+Epoch: 81 tensor(0.2055)
+Epoch: 82 tensor(0.2049)
+Epoch: 83 tensor(0.2044)
+Epoch: 84 tensor(0.2038)
+Epoch: 85 tensor(0.2036)
+Epoch: 86 tensor(0.2032)
+Epoch: 87 tensor(0.2363)
+Epoch: 88 tensor(0.2372)
+Epoch: 89 tensor(0.2348)
+Epoch: 90 tensor(0.2215)
+Epoch: 91 tensor(0.2000)
+Epoch: 92 tensor(0.1994)
+Epoch: 93 tensor(0.2173)
+Epoch: 94 tensor(0.1985)
+Epoch: 95 tensor(0.1981)
+Epoch: 96 tensor(0.1986)
+Epoch: 97 tensor(0.2013)
+Epoch: 98 tensor(0.2038)
+Epoch: 99 tensor(0.1971)
+Earth Model
+-------------------------------------------------------
+Basis Function   Pruned  Coefficient 0  Coefficient 1  
+-------------------------------------------------------
+(Intercept)      No      0.39712        -0.273912      
+h(x1+0.651332)   No      0.0349634      1.00035        
+h(-0.651332-x1)  No      -0.0349634     -0.999536      
+h(x0-0.424882)   No      1              0.0271396      
+h(0.424882-x0)   No      -1             -0.0274133     
+h(x2-1.67929)    No      4.80392e-15    0.221155       
+h(1.67929-x2)    No      0              -0.219116      
+-------------------------------------------------------
+MSE: 0.0000, GCV: 0.0000, RSQ: 1.0000, GRSQ: 1.0000
+Basis:
+1.0
+h(x1 - -0.6513316770104548)
+h(-0.6513316770104548 - x1)
+h(x0 - 0.4248823404372728)
+h(0.4248823404372728 - x0)
+h(x2 - 1.6792913515522458)
+h(1.6792913515522458 - x2)
+Coeffs:
+[[0.39711962384177446, 0.03496338332223961, -0.03496338332223973, 1.0000000000000007, -1.0000000000000007, 4.803923643430241e-15, 0.0], [-0.27391210494436274, 1.0003518955787132, -0.9995359722706056, 0.027139591981172995, -0.027413303954293533, 0.2211551706200429, -0.2191164863211955]]
+Model MSE: 3.4864100190142094e-07
+Earth Model
+---------------------------------------
+Basis Function    Pruned  Coefficient  
+---------------------------------------
+(Intercept)       No      -3.60746     
+h(x1-0.226753)    No      -1.9071      
+h(0.226753-x1)    No      1.42329      
+h(x0+1.64889)     Yes     None         
+h(-1.64889-x0)    No      6.82674      
+h(x0+0.148307)    No      -4.6543      
+h(-0.148307-x0)   Yes     None         
+h(x0+1.9149)      No      1.1812       
+h(-1.9149-x0)     No      -7.30851     
+h(x1+2.11152)     No      1.32918      
+h(-2.11152-x1)    Yes     None         
+h(x1+0.405883)    No      -0.851416    
+h(-0.405883-x1)   Yes     None         
+h(x1-4.20033)     No      0.798663     
+h(4.20033-x1)     Yes     None         
+h(x1-0.753622)    Yes     None         
+h(0.753622-x1)    No      -1.09255     
+h(x1-2.28606)     No      0.80529      
+h(2.28606-x1)     Yes     None         
+h(x0+0.0896471)   No      3.5812       
+h(-0.0896471-x0)  Yes     None         
+---------------------------------------
+MSE: 0.5564, GCV: 0.5619, RSQ: 0.4436, GRSQ: 0.4384
+Episode: 309, total numsteps: 30900, episode steps: 100, reward: -0.37
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0027095556259155275
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.08
+----------------------------------------
+310 : Simulated data
+310 0 30900
+Episode: 310, total numsteps: 31000, episode steps: 100, reward: -0.52
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.005961849689483643
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.41
+----------------------------------------
+311 : Simulated data
+311 0 31000
+Episode: 311, total numsteps: 31100, episode steps: 100, reward: -1.57
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.009086203575134278
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.77
+----------------------------------------
+312 : Simulated data
+312 0 31100
+Episode: 312, total numsteps: 31200, episode steps: 100, reward: -1.01
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.012070302963256835
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.92
+----------------------------------------
+313 : Simulated data
+313 0 31200
+Episode: 313, total numsteps: 31300, episode steps: 100, reward: -1.22
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.00536517858505249
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.71
+----------------------------------------
+314 : Simulated data
+314 0 31300
+Episode: 314, total numsteps: 31400, episode steps: 100, reward: -1.66
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.00428786039352417
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.29
+----------------------------------------
+315 : Simulated data
+315 0 31400
+Episode: 315, total numsteps: 31500, episode steps: 100, reward: -1.56
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0019318294525146485
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -2.0
+----------------------------------------
+316 : Simulated data
+316 0 31500
+Episode: 316, total numsteps: 31600, episode steps: 100, reward: -1.76
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0049366140365600586
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.87
+----------------------------------------
+317 : Simulated data
+317 0 31600
+Episode: 317, total numsteps: 31700, episode steps: 100, reward: -0.98
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0014911627769470216
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.11
+----------------------------------------
+318 : Simulated data
+318 0 31700
+Episode: 318, total numsteps: 31800, episode steps: 100, reward: -0.61
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0014838266372680664
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.36
+----------------------------------------
+319 : Simulated data
+319 0 31800
+Episode: 319, total numsteps: 31900, episode steps: 100, reward: -0.6
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0034632968902587893
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.56
+----------------------------------------
+320 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004813590049743652
+Episode: 320, total numsteps: 32000, episode steps: 100, reward: -0.27
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003921134471893311
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.79
+----------------------------------------
+321 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004387080669403076
+Episode: 321, total numsteps: 32100, episode steps: 100, reward: -0.4
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004759361743927002
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.4
+----------------------------------------
+322 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004241697788238526
+Episode: 322, total numsteps: 32200, episode steps: 100, reward: -0.82
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0022419071197509765
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.87
+----------------------------------------
+323 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.005596318244934082
+Episode: 323, total numsteps: 32300, episode steps: 100, reward: -1.07
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004403741359710694
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.86
+----------------------------------------
+324 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004375526905059815
+Episode: 324, total numsteps: 32400, episode steps: 100, reward: -1.52
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001990373134613037
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.79
+----------------------------------------
+325 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004556794166564942
+Episode: 325, total numsteps: 32500, episode steps: 100, reward: -1.22
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.008381741046905518
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.41
+----------------------------------------
+326 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.005011055469512939
+Episode: 326, total numsteps: 32600, episode steps: 100, reward: -1.06
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0029003739356994627
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.67
+----------------------------------------
+327 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.005373642444610595
+Episode: 327, total numsteps: 32700, episode steps: 100, reward: -1.2
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003455796241760254
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.09
+----------------------------------------
+328 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.005467560291290283
+Episode: 328, total numsteps: 32800, episode steps: 100, reward: -0.7
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0036739349365234376
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.6
+----------------------------------------
+329 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.004581282138824463
+Episode: 329, total numsteps: 32900, episode steps: 100, reward: -1.19
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0023811030387878417
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.64
+----------------------------------------
+330 : Simulated data
+330 0 32900
+Episode: 330, total numsteps: 33000, episode steps: 100, reward: -0.57
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.020571439266204833
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.99
+----------------------------------------
+331 : Simulated data
+331 0 33000
+Episode: 331, total numsteps: 33100, episode steps: 100, reward: -0.82
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004680571556091309
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.52
+----------------------------------------
+332 : Simulated data
+332 0 33100
+Episode: 332, total numsteps: 33200, episode steps: 100, reward: -0.62
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.001380445957183838
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.43
+----------------------------------------
+333 : Simulated data
+333 0 33200
+Episode: 333, total numsteps: 33300, episode steps: 100, reward: -1.51
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003494877815246582
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.47
+----------------------------------------
+334 : Simulated data
+334 0 33300
+Episode: 334, total numsteps: 33400, episode steps: 100, reward: -1.04
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003353133201599121
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.43
+----------------------------------------
+335 : Simulated data
+335 0 33400
+Episode: 335, total numsteps: 33500, episode steps: 100, reward: -0.82
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004862110614776611
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.13
+----------------------------------------
+336 : Simulated data
+336 0 33500
+Episode: 336, total numsteps: 33600, episode steps: 100, reward: -1.23
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003538720607757568
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.37
+----------------------------------------
+337 : Simulated data
+337 0 33600
+Episode: 337, total numsteps: 33700, episode steps: 100, reward: -0.5
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0022165679931640623
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.61
+----------------------------------------
+338 : Simulated data
+338 0 33700
+Episode: 338, total numsteps: 33800, episode steps: 100, reward: -0.44
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002361741065979004
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.69
+----------------------------------------
+339 : Simulated data
+339 0 33800
+Episode: 339, total numsteps: 33900, episode steps: 100, reward: -0.27
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001993591785430908
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.89
+----------------------------------------
+340 : Simulated data
+340 0 33900
+Episode: 340, total numsteps: 34000, episode steps: 100, reward: -1.29
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002460641860961914
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.89
+----------------------------------------
+341 : Simulated data
+341 0 34000
+Episode: 341, total numsteps: 34100, episode steps: 100, reward: -0.8
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0038602137565612793
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.51
+----------------------------------------
+342 : Simulated data
+342 0 34100
+Episode: 342, total numsteps: 34200, episode steps: 100, reward: -0.8
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004552867412567139
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.94
+----------------------------------------
+343 : Simulated data
+343 0 34200
+Episode: 343, total numsteps: 34300, episode steps: 100, reward: -0.84
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003083841800689697
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.21
+----------------------------------------
+344 : Simulated data
+344 0 34300
+Episode: 344, total numsteps: 34400, episode steps: 100, reward: -0.55
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.00405205488204956
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.54
+----------------------------------------
+345 : Simulated data
+345 0 34400
+Episode: 345, total numsteps: 34500, episode steps: 100, reward: -1.19
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004057204723358155
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.67
+----------------------------------------
+346 : Simulated data
+346 0 34500
+Episode: 346, total numsteps: 34600, episode steps: 100, reward: -0.67
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.005523879528045655
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.79
+----------------------------------------
+347 : Simulated data
+347 0 34600
+Episode: 347, total numsteps: 34700, episode steps: 100, reward: -1.43
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.003397643566131592
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.51
+----------------------------------------
+348 : Simulated data
+348 0 34700
+Episode: 348, total numsteps: 34800, episode steps: 100, reward: -0.68
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004823899269104004
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.76
+----------------------------------------
+349 : Simulated data
+349 0 34800
+Episode: 349, total numsteps: 34900, episode steps: 100, reward: -0.73
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004370551109313964
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.83
+----------------------------------------
+350 : Simulated data
+350 0 34900
+Episode: 350, total numsteps: 35000, episode steps: 100, reward: -0.62
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004999165534973145
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.34
+----------------------------------------
+351 : Simulated data
+351 0 35000
+Episode: 351, total numsteps: 35100, episode steps: 100, reward: -1.26
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.001930396556854248
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.3
+----------------------------------------
+352 : Simulated data
+352 0 35100
+Episode: 352, total numsteps: 35200, episode steps: 100, reward: -1.35
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002132449150085449
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.22
+----------------------------------------
+353 : Simulated data
+353 0 35200
+Episode: 353, total numsteps: 35300, episode steps: 100, reward: -1.04
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.00244964599609375
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.8
+----------------------------------------
+354 : Simulated data
+354 0 35300
+Episode: 354, total numsteps: 35400, episode steps: 100, reward: -0.75
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0019823622703552244
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.3
+----------------------------------------
+355 : Simulated data
+355 0 35400
+Episode: 355, total numsteps: 35500, episode steps: 100, reward: -0.78
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0026870512962341307
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.89
+----------------------------------------
+356 : Simulated data
+356 0 35500
+Episode: 356, total numsteps: 35600, episode steps: 100, reward: -1.44
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.002395892143249512
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.42
+----------------------------------------
+357 : Simulated data
+357 0 35600
+Episode: 357, total numsteps: 35700, episode steps: 100, reward: -1.37
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0037747955322265624
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.12
+----------------------------------------
+358 : Simulated data
+358 0 35700
+Episode: 358, total numsteps: 35800, episode steps: 100, reward: -0.71
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0031023740768432615
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.76
+----------------------------------------
+359 : Simulated data
+359 0 35800
+Episode: 359, total numsteps: 35900, episode steps: 100, reward: -1.07
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.005889596939086914
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.64
+----------------------------------------
+360 : Simulated data
+360 0 35900
+Episode: 360, total numsteps: 36000, episode steps: 100, reward: -0.7
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.006369013786315918
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.37
+----------------------------------------
+361 : Simulated data
+361 0 36000
+Episode: 361, total numsteps: 36100, episode steps: 100, reward: -1.24
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0061617898941040035
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.7
+----------------------------------------
+362 : Simulated data
+362 0 36100
+Episode: 362, total numsteps: 36200, episode steps: 100, reward: -1.23
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0029941701889038084
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.03
+----------------------------------------
+363 : Simulated data
+363 0 36200
+Episode: 363, total numsteps: 36300, episode steps: 100, reward: -0.53
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002710409164428711
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.87
+----------------------------------------
+364 : Simulated data
+364 0 36300
+Episode: 364, total numsteps: 36400, episode steps: 100, reward: -0.46
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0023235344886779787
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.89
+----------------------------------------
+365 : Simulated data
+365 0 36400
+Episode: 365, total numsteps: 36500, episode steps: 100, reward: -0.85
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002327232360839844
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.16
+----------------------------------------
+366 : Simulated data
+366 0 36500
+Episode: 366, total numsteps: 36600, episode steps: 100, reward: -1.22
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0021042943000793455
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.51
+----------------------------------------
+367 : Simulated data
+367 0 36600
+Episode: 367, total numsteps: 36700, episode steps: 100, reward: -0.73
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004100553989410401
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.93
+----------------------------------------
+368 : Simulated data
+368 0 36700
+Episode: 368, total numsteps: 36800, episode steps: 100, reward: -0.79
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.012937359809875489
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.75
+----------------------------------------
+369 : Simulated data
+369 0 36800
+Episode: 369, total numsteps: 36900, episode steps: 100, reward: -0.83
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002286343574523926
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.26
+----------------------------------------
+370 : Simulated data
+370 0 36900
+Episode: 370, total numsteps: 37000, episode steps: 100, reward: -1.04
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0016606903076171874
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.61
+----------------------------------------
+371 : Simulated data
+371 0 37000
+Episode: 371, total numsteps: 37100, episode steps: 100, reward: -1.16
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0026560735702514647
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.88
+----------------------------------------
+372 : Simulated data
+372 0 37100
+Episode: 372, total numsteps: 37200, episode steps: 100, reward: -0.63
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0021506237983703615
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.87
+----------------------------------------
+373 : Simulated data
+373 0 37200
+Episode: 373, total numsteps: 37300, episode steps: 100, reward: -1.38
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0016271638870239257
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.68
+----------------------------------------
+374 : Simulated data
+374 0 37300
+Episode: 374, total numsteps: 37400, episode steps: 100, reward: -0.9
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.00218017578125
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.96
+----------------------------------------
+375 : Simulated data
+375 0 37400
+Episode: 375, total numsteps: 37500, episode steps: 100, reward: -0.94
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0019465279579162597
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.87
+----------------------------------------
+376 : Simulated data
+376 0 37500
+Episode: 376, total numsteps: 37600, episode steps: 100, reward: -0.5
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002638859748840332
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.99
+----------------------------------------
+377 : Simulated data
+377 0 37600
+Episode: 377, total numsteps: 37700, episode steps: 100, reward: -0.58
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.005783019065856934
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.69
+----------------------------------------
+378 : Simulated data
+378 0 37700
+Episode: 378, total numsteps: 37800, episode steps: 100, reward: -0.73
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002362773418426514
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.82
+----------------------------------------
+379 : Simulated data
+379 0 37800
+Episode: 379, total numsteps: 37900, episode steps: 100, reward: -1.42
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.0051619791984558105
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.57
+----------------------------------------
+380 : Simulated data
+380 0 37900
+Episode: 380, total numsteps: 38000, episode steps: 100, reward: -1.05
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0045288515090942385
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.54
+----------------------------------------
+381 : Simulated data
+381 0 38000
+Episode: 381, total numsteps: 38100, episode steps: 100, reward: -0.46
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0027669548988342287
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.86
+----------------------------------------
+382 : Simulated data
+382 0 38100
+Episode: 382, total numsteps: 38200, episode steps: 100, reward: -0.67
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.015245819091796875
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.01
+----------------------------------------
+383 : Simulated data
+383 0 38200
+Episode: 383, total numsteps: 38300, episode steps: 100, reward: -0.84
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0029114556312561037
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.85
+----------------------------------------
+384 : Simulated data
+384 0 38300
+Episode: 384, total numsteps: 38400, episode steps: 100, reward: -0.93
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002324209213256836
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.34
+----------------------------------------
+385 : Simulated data
+385 0 38400
+Episode: 385, total numsteps: 38500, episode steps: 100, reward: -0.72
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004469468593597412
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.85
+----------------------------------------
+386 : Simulated data
+386 0 38500
+Episode: 386, total numsteps: 38600, episode steps: 100, reward: -1.34
+starting testing...
+Finished test episode: 1 shield and 99 neural
+Average time: 0.004588658809661865
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.81
+----------------------------------------
+387 : Simulated data
+387 0 38600
+Episode: 387, total numsteps: 38700, episode steps: 100, reward: -0.84
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002402174472808838
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.54
+----------------------------------------
+388 : Simulated data
+388 0 38700
+Episode: 388, total numsteps: 38800, episode steps: 100, reward: -1.16
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.006099004745483399
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.97
+----------------------------------------
+389 : Simulated data
+389 0 38800
+Episode: 389, total numsteps: 38900, episode steps: 100, reward: -0.92
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.004771721363067627
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.03
+----------------------------------------
+390 : Simulated data
+390 0 38900
+Episode: 390, total numsteps: 39000, episode steps: 100, reward: -1.09
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.006701972484588623
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.17
+----------------------------------------
+391 : Simulated data
+391 0 39000
+Episode: 391, total numsteps: 39100, episode steps: 100, reward: -0.81
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.007765552997589111
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.64
+----------------------------------------
+392 : Simulated data
+392 0 39100
+Episode: 392, total numsteps: 39200, episode steps: 100, reward: -0.88
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002633492946624756
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.78
+----------------------------------------
+393 : Simulated data
+393 0 39200
+Episode: 393, total numsteps: 39300, episode steps: 100, reward: -0.99
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.005775060653686524
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.73
+----------------------------------------
+394 : Simulated data
+394 0 39300
+Episode: 394, total numsteps: 39400, episode steps: 100, reward: -0.7
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.006490092277526855
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.46
+----------------------------------------
+395 : Simulated data
+395 0 39400
+Episode: 395, total numsteps: 39500, episode steps: 100, reward: -1.42
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.002097947597503662
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.6
+----------------------------------------
+396 : Simulated data
+396 0 39500
+Episode: 396, total numsteps: 39600, episode steps: 100, reward: -1.42
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0019100117683410645
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.19
+----------------------------------------
+397 : Simulated data
+397 0 39600
+Episode: 397, total numsteps: 39700, episode steps: 100, reward: -1.63
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0027262330055236816
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.6
+----------------------------------------
+398 : Simulated data
+398 0 39700
+Episode: 398, total numsteps: 39800, episode steps: 100, reward: -2.2
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.007689380645751953
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -0.84
+----------------------------------------
+399 : Simulated data
+399 0 39800
+Episode: 399, total numsteps: 39900, episode steps: 100, reward: -1.37
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.013656322956085204
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.9
+----------------------------------------
+Trajectory:
+[array([0.00853205, 0.00056033], dtype=float32), array([0.00854326, 0.03834247]), array([0.00931011, 0.06781795]), array([0.01066647, 0.07400777]), array([0.01214662, 0.06335479]), array([0.01341372, 0.04032041]), array([0.01422013, 0.06461414]), array([0.01551241, 0.05411861]), array([0.01659478, 0.07940745]), array([0.01818293, 0.02686363]), array([0.0187202 , 0.01398195]), array([0.01899984, 0.01616045]), array([ 0.01932305, -0.00595225]), array([0.01920401, 0.0128166 ]), array([0.01946034, 0.05899344]), array([0.02064021, 0.01413728]), array([ 0.02092295, -0.03296835]), array([ 0.02026359, -0.06006276]), array([ 0.01906233, -0.06451462]), array([ 0.01777204, -0.01442648]), array([ 0.01748351, -0.02218305]), array([0.01703985, 0.00196862]), array([ 0.01707922, -0.00495788]), array([0.01698006, 0.03823963]), array([0.01774486, 0.03413803]), array([0.01842762, 0.02989513]), array([ 0.01902552, -0.00321294]), array([0.01896126, 0.04464879]), array([0.01985424, 0.04950332]), array([0.0208443 , 0.00691009]), array([0.0209825 , 0.00856048]), array([0.02115371, 0.03833222]), array([0.02192036, 0.0829572 ]), array([0.0235795, 0.0307321]), array([0.02419414, 0.04996999]), array([0.02519354, 0.00816486]), array([0.02535684, 0.01577784]), array([ 0.0256724 , -0.01976996]), array([ 0.025277  , -0.01731316]), array([ 0.02493074, -0.03641195]), array([ 0.0242025 , -0.07234924]), array([ 0.02275551, -0.07421708]), array([ 0.02127117, -0.03880747]), array([ 0.02049502, -0.05422224]), array([ 0.01941058, -0.01070652]), array([0.01919645, 0.01178815]), array([ 0.01943221, -0.0120045 ]), array([ 0.01919212, -0.04944473]), array([ 0.01820322, -0.04562159]), array([ 0.01729079, -0.03121115]), array([ 0.01666657, -0.00954762]), array([0.01647562, 0.01694556]), array([0.01681453, 0.01855499]), array([0.01718563, 0.04912069]), array([0.01816804, 0.06875861]), array([0.01954321, 0.04033538]), array([0.02034992, 0.0110013 ]), array([0.02056995, 0.0252637 ]), array([0.02107522, 0.03780601]), array([0.02183134, 0.01392126]), array([ 0.02210977, -0.00086524]), array([0.02209246, 0.02951263]), array([ 0.02268271, -0.01613441]), array([ 0.02236003, -0.02359085]), array([ 0.02188821, -0.00992959]), array([ 0.02168962, -0.03384854]), array([ 0.02101265, -0.04369657]), array([ 0.02013871, -0.00369641]), array([ 0.02006479, -0.01503288]), array([ 0.01976413, -0.01626717]), array([ 0.01943879, -0.04963372]), array([ 0.01844611, -0.01568237]), array([ 0.01813246, -0.05369063]), array([ 0.01705865, -0.00062118]), array([ 0.01704623, -0.02084088]), array([0.01662941, 0.01178968]), array([ 0.0168652 , -0.02506132]), array([ 0.01636398, -0.04504817]), array([ 0.01546301, -0.05537692]), array([ 0.01435548, -0.02544691]), array([0.01384654, 0.01593127]), array([0.01416516, 0.06472453]), array([0.01545965, 0.0137796 ]), array([0.01573525, 0.05266768]), array([0.0167886 , 0.03805162]), array([0.01754963, 0.03716101]), array([0.01829285, 0.00285317]), array([0.01834992, 0.05198681]), array([ 0.01938965, -0.00371959]), array([0.01931526, 0.00119323]), array([0.01933912, 0.0286862 ]), array([0.01991285, 0.00840259]), array([0.0200809, 0.0413968]), array([ 0.02090884, -0.00052757]), array([ 0.02089828, -0.03115787]), array([ 0.02027513, -0.02395249]), array([0.01979608, 0.01276388]), array([ 0.02005135, -0.0033108 ]), array([ 0.01998514, -0.00386889]), array([0.01990776, 0.01095525])]
+400 : Real data
+Shield steps: 0   Neural steps: 100
+Average time: 0.005659711360931396
+Episode: 400, total numsteps: 40000, episode steps: 100, reward: -1.29
+starting testing...
+Finished test episode: 0 shield and 100 neural
+Average time: 0.0028240609169006346
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 100.0, Avg. Reward: -1.68
+----------------------------------------
+Total unsafe: 142 / 400
