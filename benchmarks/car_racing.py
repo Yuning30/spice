@@ -13,7 +13,7 @@ class CarRacingEnv(gym.Env):
 
         self.init_space = gym.spaces.Box(low=-0.1, high=0.1, shape=(4,))
 
-        self._max_episode_steps = 400
+        self._max_episode_steps = 200
 
         self.polys = [
             # P (s 1)^T <= 0 iff 1.0 <= s[0] <= 2.0 and 1.0 <= s[1] <= 2.0
@@ -38,7 +38,7 @@ class CarRacingEnv(gym.Env):
 
     def step(self, action: np.ndarray) -> \
             Tuple[np.ndarray, float, bool, Dict[Any, Any]]:
-        dt = 0.02
+        dt = 0.04
         x = self.state[0] + dt * self.state[2]
         y = self.state[1] + dt * self.state[3]
         vx = self.state[2] + dt * action[0]
@@ -52,19 +52,29 @@ class CarRacingEnv(gym.Env):
             self.corner = True
 
         if self.corner:
-            reward = -(abs(x) + abs(y))
+            reward = -1 * (x**2 + y**2)
         else:
-            reward = -(6.0 + abs(x - 3.0) + abs(y - 3.0))
+            reward = -1 * ((x-3)**2 + (y-3)**2) - 6
+        if self.unsafe(self.state):
+            reward -= 20
 
-        done = self.corner and x <= 0.0 and y <= 0.0
-        done = done or self.steps >= self._max_episode_steps or \
-            self.unsafe(self.state)
         self.steps += 1
+        done = self.steps >= self._max_episode_steps
 
         return self.state, reward, done, {}
 
     def predict_done(self, state: np.ndarray) -> bool:
         return False
+
+    def true_reward(self, state, corner):
+        x, y = state[0], state[1]
+        if corner:
+            reward = -1 * (x**2 + y**2)
+        else:
+            reward = -1 * ((x-3)**2 + (y-3)**2) - 6
+        if self.unsafe(state):
+            reward -= 20
+        return reward
 
     def seed(self, seed: int):
         self.action_space.seed(seed)
@@ -72,5 +82,5 @@ class CarRacingEnv(gym.Env):
         self.init_space.seed(seed)
 
     def unsafe(self, state: np.ndarray) -> bool:
-        return self.state[0] >= 1.0 and self.state[0] <= 2.0 and \
-            self.state[1] >= 1.0 and self.state[1] <= 2.0
+        return state[0] >= 1.0 and state[0] <= 2.0 and \
+            state[1] >= 1.0 and state[1] <= 2.0

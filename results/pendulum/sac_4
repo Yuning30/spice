@@ -1,0 +1,621 @@
+Arguments:
+Namespace(alpha=0.2, automatic_entropy_tuning=False, batch_size=256, cuda=False, env_name='pendulum', episode=200, eval=True, gamma=0.99, hidden_size=256, horizon=5, lr=0.0003, neural_safety=False, neural_threshold=0.1, num_steps=10000000, policy='Gaussian', replay_size=1000000, seed=4, start_steps=1200, target_update_interval=1, tau=0.005, updates_per_step=1)
+1 : Real data
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+Episode: 1, total numsteps: 100, episode steps: 100, reward: -1051.25
+2 : Real data
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+Episode: 2, total numsteps: 200, episode steps: 100, reward: -376.95
+3 : Real data
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+Episode: 3, total numsteps: 300, episode steps: 100, reward: -1050.83
+4 : Real data
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+Episode: 4, total numsteps: 400, episode steps: 100, reward: -53.99
+5 : Real data
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+Episode: 5, total numsteps: 500, episode steps: 100, reward: -91.35
+6 : Real data
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+Episode: 6, total numsteps: 600, episode steps: 100, reward: -859.2
+7 : Real data
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+Episode: 7, total numsteps: 700, episode steps: 100, reward: -923.96
+8 : Real data
+Episode: 8, total numsteps: 800, episode steps: 100, reward: -4.13
+9 : Real data
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+UNSAFE (outside testing)
+State stats: [0.07533531 0.16052197] [0.27738539 0.44065402]
+Action stats: [0.02445868] [0.5885939]
+Reward stats: -18.185358042777956 7.05009610493492
+Computed error: 0.034095334127546395 ( 0.012635673864652919 0.021459660262893473 )
+Epoch: 0 tensor(0.0262)
+Epoch: 1 tensor(0.0183)
+Epoch: 2 tensor(0.0095)
+Epoch: 3 tensor(0.0039)
+Epoch: 4 tensor(0.0012)
+Epoch: 5 tensor(0.0003)
+Epoch: 6 tensor(0.0002)
+Epoch: 7 tensor(0.0002)
+Epoch: 8 tensor(0.0002)
+Epoch: 9 tensor(0.0002)
+Epoch: 10 tensor(0.0002)
+Epoch: 11 tensor(0.0001)
+Epoch: 12 tensor(0.0001)
+Epoch: 13 tensor(0.0001)
+Epoch: 14 tensor(0.0001)
+Epoch: 15 tensor(9.7761e-05)
+Epoch: 16 tensor(9.6159e-05)
+Epoch: 17 tensor(9.4326e-05)
+Epoch: 18 tensor(9.1290e-05)
+Epoch: 19 tensor(8.8989e-05)
+Epoch: 20 tensor(8.7342e-05)
+Epoch: 21 tensor(8.5263e-05)
+Epoch: 22 tensor(8.3119e-05)
+Epoch: 23 tensor(8.1399e-05)
+Epoch: 24 tensor(7.9392e-05)
+Epoch: 25 tensor(7.8263e-05)
+Epoch: 26 tensor(7.6052e-05)
+Epoch: 27 tensor(7.4183e-05)
+Epoch: 28 tensor(7.3040e-05)
+Epoch: 29 tensor(7.1397e-05)
+Epoch: 30 tensor(7.0431e-05)
+Epoch: 31 tensor(6.9292e-05)
+Epoch: 32 tensor(6.7496e-05)
+Epoch: 33 tensor(6.6399e-05)
+Epoch: 34 tensor(6.5186e-05)
+Epoch: 35 tensor(6.3897e-05)
+Epoch: 36 tensor(6.2769e-05)
+Epoch: 37 tensor(6.1937e-05)
+Epoch: 38 tensor(6.0496e-05)
+Epoch: 39 tensor(5.9584e-05)
+Epoch: 40 tensor(5.8366e-05)
+Epoch: 41 tensor(5.7432e-05)
+Epoch: 42 tensor(5.6622e-05)
+Epoch: 43 tensor(5.5455e-05)
+Epoch: 44 tensor(5.4449e-05)
+Epoch: 45 tensor(5.3610e-05)
+Epoch: 46 tensor(5.2884e-05)
+Epoch: 47 tensor(5.1941e-05)
+Epoch: 48 tensor(5.0986e-05)
+Epoch: 49 tensor(5.0100e-05)
+Epoch: 50 tensor(4.9721e-05)
+Epoch: 51 tensor(4.8836e-05)
+Epoch: 52 tensor(4.7931e-05)
+Epoch: 53 tensor(4.7534e-05)
+Epoch: 54 tensor(4.6990e-05)
+Epoch: 55 tensor(4.6129e-05)
+Epoch: 56 tensor(4.5489e-05)
+Epoch: 57 tensor(4.4763e-05)
+Epoch: 58 tensor(4.3950e-05)
+Epoch: 59 tensor(4.3464e-05)
+Epoch: 60 tensor(4.3085e-05)
+Epoch: 61 tensor(4.2623e-05)
+Epoch: 62 tensor(4.1921e-05)
+Epoch: 63 tensor(4.1411e-05)
+Epoch: 64 tensor(4.0967e-05)
+Epoch: 65 tensor(4.0646e-05)
+Epoch: 66 tensor(4.0009e-05)
+Epoch: 67 tensor(3.9578e-05)
+Epoch: 68 tensor(3.9082e-05)
+Epoch: 69 tensor(3.8725e-05)
+Epoch: 70 tensor(3.8474e-05)
+Epoch: 71 tensor(3.7846e-05)
+Epoch: 72 tensor(3.7559e-05)
+Epoch: 73 tensor(3.7111e-05)
+Epoch: 74 tensor(3.6621e-05)
+Epoch: 75 tensor(3.6436e-05)
+Epoch: 76 tensor(3.5749e-05)
+Epoch: 77 tensor(3.5521e-05)
+Epoch: 78 tensor(3.5310e-05)
+Epoch: 79 tensor(3.4708e-05)
+Epoch: 80 tensor(3.4736e-05)
+Epoch: 81 tensor(3.4365e-05)
+Epoch: 82 tensor(3.4044e-05)
+Epoch: 83 tensor(3.3708e-05)
+Epoch: 84 tensor(3.3492e-05)
+Epoch: 85 tensor(3.3309e-05)
+Epoch: 86 tensor(3.2747e-05)
+Epoch: 87 tensor(3.2420e-05)
+Epoch: 88 tensor(3.2430e-05)
+Epoch: 89 tensor(3.2074e-05)
+Epoch: 90 tensor(3.1939e-05)
+Epoch: 91 tensor(3.1665e-05)
+Epoch: 92 tensor(3.1422e-05)
+Epoch: 93 tensor(3.1135e-05)
+Epoch: 94 tensor(3.1040e-05)
+Epoch: 95 tensor(3.0654e-05)
+Epoch: 96 tensor(3.0350e-05)
+Epoch: 97 tensor(3.0199e-05)
+Epoch: 98 tensor(3.0040e-05)
+Epoch: 99 tensor(2.9658e-05)
+Epoch: 0 tensor(0.3328)
+Epoch: 1 tensor(0.3254)
+Epoch: 2 tensor(0.3227)
+Epoch: 3 tensor(0.3223)
+Epoch: 4 tensor(0.3194)
+Epoch: 5 tensor(0.3219)
+Epoch: 6 tensor(0.3199)
+Epoch: 7 tensor(0.3194)
+Epoch: 8 tensor(0.3192)
+Epoch: 9 tensor(0.3190)
+Epoch: 10 tensor(0.3168)
+Epoch: 11 tensor(0.3196)
+Epoch: 12 tensor(0.3175)
+Epoch: 13 tensor(0.3198)
+Epoch: 14 tensor(0.3172)
+Epoch: 15 tensor(0.3175)
+Epoch: 16 tensor(0.3169)
+Epoch: 17 tensor(0.3158)
+Epoch: 18 tensor(0.3180)
+Epoch: 19 tensor(0.3188)
+Epoch: 20 tensor(0.3172)
+Epoch: 21 tensor(0.3180)
+Epoch: 22 tensor(0.3179)
+Epoch: 23 tensor(0.3173)
+Epoch: 24 tensor(0.3190)
+Epoch: 25 tensor(0.3160)
+Epoch: 26 tensor(0.3154)
+Epoch: 27 tensor(0.3162)
+Epoch: 28 tensor(0.3180)
+Epoch: 29 tensor(0.3145)
+Epoch: 30 tensor(0.3144)
+Epoch: 31 tensor(0.3209)
+Epoch: 32 tensor(0.3155)
+Epoch: 33 tensor(0.3172)
+Epoch: 34 tensor(0.3186)
+Epoch: 35 tensor(0.3151)
+Epoch: 36 tensor(0.3159)
+Epoch: 37 tensor(0.3148)
+Epoch: 38 tensor(0.3171)
+Epoch: 39 tensor(0.3127)
+Epoch: 40 tensor(0.3173)
+Epoch: 41 tensor(0.3148)
+Epoch: 42 tensor(0.3166)
+Epoch: 43 tensor(0.3151)
+Epoch: 44 tensor(0.3139)
+Epoch: 45 tensor(0.3153)
+Epoch: 46 tensor(0.3119)
+Epoch: 47 tensor(0.3103)
+Epoch: 48 tensor(0.3111)
+Epoch: 49 tensor(0.3124)
+Epoch: 50 tensor(0.3137)
+Epoch: 51 tensor(0.3155)
+Epoch: 52 tensor(0.3145)
+Epoch: 53 tensor(0.3139)
+Epoch: 54 tensor(0.3095)
+Epoch: 55 tensor(0.3150)
+Epoch: 56 tensor(0.3127)
+Epoch: 57 tensor(0.3125)
+Epoch: 58 tensor(0.3143)
+Epoch: 59 tensor(0.3118)
+Epoch: 60 tensor(0.3117)
+Epoch: 61 tensor(0.3102)
+Epoch: 62 tensor(0.3124)
+Epoch: 63 tensor(0.3119)
+Epoch: 64 tensor(0.3113)
+Epoch: 65 tensor(0.3117)
+Epoch: 66 tensor(0.3125)
+Epoch: 67 tensor(0.3119)
+Epoch: 68 tensor(0.3114)
+Epoch: 69 tensor(0.3136)
+Epoch: 70 tensor(0.3107)
+Epoch: 71 tensor(0.3116)
+Epoch: 72 tensor(0.3105)
+Epoch: 73 tensor(0.3100)
+Epoch: 74 tensor(0.3123)
+Epoch: 75 tensor(0.3113)
+Epoch: 76 tensor(0.3140)
+Epoch: 77 tensor(0.3101)
+Epoch: 78 tensor(0.3138)
+Epoch: 79 tensor(0.3119)
+Epoch: 80 tensor(0.3103)
+Epoch: 81 tensor(0.3093)
+Epoch: 82 tensor(0.3111)
+Epoch: 83 tensor(0.3106)
+Epoch: 84 tensor(0.3100)
+Epoch: 85 tensor(0.3076)
+Epoch: 86 tensor(0.3103)
+Epoch: 87 tensor(0.3118)
+Epoch: 88 tensor(0.3102)
+Epoch: 89 tensor(0.3087)
+Epoch: 90 tensor(0.3082)
+Epoch: 91 tensor(0.3085)
+Epoch: 92 tensor(0.3094)
+Epoch: 93 tensor(0.3070)
+Epoch: 94 tensor(0.3088)
+Epoch: 95 tensor(0.3102)
+Epoch: 96 tensor(0.3091)
+Epoch: 97 tensor(0.3100)
+Epoch: 98 tensor(0.3081)
+Epoch: 99 tensor(0.3099)
+Earth Model
+-------------------------------------------------------
+Basis Function   Pruned  Coefficient 0  Coefficient 1  
+-------------------------------------------------------
+(Intercept)      No      1.5728         1.66961        
+h(x0-1.50888)    No      1              0.020084       
+h(1.50888-x0)    No      -1             -0.026764      
+h(x1-1.64735)    No      0.031772       1.0123         
+h(1.64735-x1)    No      -0.031772      -1.00235       
+h(x2+0.416138)   No      -1.1241e-15    0.0803871      
+h(-0.416138-x2)  No      -2.22738e-15   -0.079903      
+-------------------------------------------------------
+MSE: 0.0000, GCV: 0.0000, RSQ: 1.0000, GRSQ: 1.0000
+Basis:
+1.0
+h(x0 - 1.5088825409183704)
+h(1.5088825409183704 - x0)
+h(x1 - 1.6473488849758233)
+h(1.6473488849758233 - x1)
+h(x2 - -0.41613802313804626)
+h(-0.41613802313804626 - x2)
+Coeffs:
+[[1.572795993150363, 0.9999999999999987, -0.9999999999999996, 0.031771970869158, -0.031771970869156535, -1.124100812432971e-15, -2.2273849431542203e-15], [1.669607195645565, 0.020084005039141206, -0.026763988263429628, 1.0122969251491354, -1.0023452173867564, 0.08038714551220252, -0.07990303503772275]]
+Model MSE: 1.3954720322867401e-06
+Earth Model
+--------------------------------------
+Basis Function   Pruned  Coefficient  
+--------------------------------------
+(Intercept)      No      1.33777      
+h(x1+0.398373)   No      -49.1943     
+h(-0.398373-x1)  Yes     None         
+h(x1+0.981137)   Yes     None         
+h(-0.981137-x1)  Yes     None         
+h(x1+0.202194)   Yes     None         
+h(-0.202194-x1)  No      14.986       
+h(x1+0.603622)   No      9.46537      
+h(-0.603622-x1)  Yes     None         
+h(x1-0.133891)   Yes     None         
+h(0.133891-x1)   No      -5.40686     
+h(x1+0.454254)   Yes     None         
+h(-0.454254-x1)  Yes     None         
+h(x1+0.281901)   Yes     None         
+h(-0.281901-x1)  Yes     None         
+h(x1-0.28381)    No      2.64848      
+h(0.28381-x1)    Yes     None         
+h(x1+0.364842)   No      36.7481      
+h(-0.364842-x1)  No      50.2194      
+h(x1+0.340764)   Yes     None         
+h(-0.340764-x1)  No      -59.8405     
+--------------------------------------
+MSE: 0.7789, GCV: 0.8066, RSQ: 0.2211, GRSQ: 0.1956
+Episode: 9, total numsteps: 900, episode steps: 100, reward: -1029.52
+starting testing...
+UNSAFE
+[-0.38989279 -0.64298728] [1.] [-0.40275254 -0.60163066]
+UNSAFE
+[-0.40275254 -0.60163066] [1.] [-0.41478515 -0.56085591]
+UNSAFE
+[-0.41478515 -0.56085591] [1.] [-0.42600227 -0.52062273]
+UNSAFE
+[-0.42600227 -0.52062273] [-1.] [-0.43641473 -0.60089184]
+UNSAFE
+[-0.43641473 -0.60089184] [1.] [-0.44843256 -0.56162493]
+UNSAFE
+[-0.44843256 -0.56162493] [1.] [-0.45966506 -0.52289074]
+UNSAFE
+[-0.45966506 -0.52289074] [1.] [-0.47012288 -0.48465167]
+UNSAFE
+[-0.47012288 -0.48465167] [1.] [-0.47981591 -0.44687112]
+UNSAFE
+[-0.47981591 -0.44687112] [1.] [-0.48875333 -0.40951338]
+UNSAFE
+[-0.48875333 -0.40951338] [1.] [-0.4969436 -0.3725436]
+UNSAFE
+[-0.4969436 -0.3725436] [1.] [-0.50439447 -0.33592775]
+UNSAFE
+[-0.50439447 -0.33592775] [1.] [-0.51111303 -0.29963251]
+UNSAFE
+[-0.51111303 -0.29963251] [1.] [-0.51710568 -0.26362523]
+UNSAFE
+[-0.51710568 -0.26362523] [1.] [-0.52237818 -0.2278739 ]
+UNSAFE
+[-0.52237818 -0.2278739 ] [1.] [-0.52693566 -0.19234703]
+UNSAFE
+[-0.52693566 -0.19234703] [1.] [-0.5307826  -0.15701364]
+UNSAFE
+[-0.5307826  -0.15701364] [1.] [-0.53392287 -0.12184317]
+UNSAFE
+[-0.53392287 -0.12184317] [1.] [-0.53635974 -0.08680541]
+UNSAFE
+[-0.53635974 -0.08680541] [1.] [-0.53809585 -0.05187046]
+UNSAFE
+[-0.53809585 -0.05187046] [1.] [-0.53913325 -0.01700868]
+UNSAFE
+[-0.53913325 -0.01700868] [1.] [-0.53947343  0.01780943]
+UNSAFE
+[-0.53947343  0.01780943] [1.] [-0.53911724  0.05261321]
+UNSAFE
+[-0.53911724  0.05261321] [1.] [-0.53806497  0.08743199]
+UNSAFE
+[-0.53806497  0.08743199] [1.] [-0.53631634  0.12229508]
+UNSAFE
+[-0.53631634  0.12229508] [1.] [-0.53387043  0.15723185]
+UNSAFE
+[-0.53387043  0.15723185] [1.] [-0.5307258   0.19227183]
+UNSAFE
+[-0.5307258   0.19227183] [1.] [-0.52688036  0.22744471]
+UNSAFE
+[-0.52688036  0.22744471] [1.] [-0.52233147  0.26278044]
+UNSAFE
+[-0.52233147  0.26278044] [1.] [-0.51707586  0.29830929]
+UNSAFE
+[-0.51707586  0.29830929] [1.] [-0.51110967  0.3340619 ]
+UNSAFE
+[-0.51110967  0.3340619 ] [1.] [-0.50442843  0.37006932]
+UNSAFE
+[-0.50442843  0.37006932] [1.] [-0.49702705  0.4063631 ]
+UNSAFE
+[-0.49702705  0.4063631 ] [1.] [-0.48889978  0.44297535]
+UNSAFE
+[-0.48889978  0.44297535] [1.] [-0.48004028  0.47993878]
+UNSAFE
+[-0.48004028  0.47993878] [1.] [-0.4704415   0.51728676]
+UNSAFE
+[-0.4704415   0.51728676] [1.] [-0.46009577  0.55505339]
+UNSAFE
+[-0.46009577  0.55505339] [1.] [-0.4489947   0.59327352]
+UNSAFE
+[-0.4489947   0.59327352] [1.] [-0.43712923  0.63198287]
+UNSAFE
+[-0.43712923  0.63198287] [1.] [-0.42448957  0.67121803]
+UNSAFE
+[-0.42448957  0.67121803] [-1.] [-0.41106521  0.59101651]
+Finished test episode: 54 shield and 46 neural
+Average time: 0.0006535792350769043
+----------------------------------------
+Test Episodes: 1, Unsafe: 40, Avg. Length: 100.0, Avg. Reward: -830.15
+----------------------------------------
+10 : Simulated data
+10 0 900

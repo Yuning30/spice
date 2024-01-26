@@ -30,5 +30,17 @@ def get_env_from_name(name):
     if name == 'road_2d':
         from .road_2d import Road2dEnv
         return Road2dEnv()
+    if name == "cartpole":
+        from .cartpole import CartPoleEnv
+        return CartPoleEnv()
+    if name == "cartpole_move":
+        from .cartpole_move import CartPoleMoveEnv
+        return CartPoleMoveEnv()
+    if name == "cartpole_swing":
+        from .cartpole_swing import CartPoleSwingEnv
+        return CartPoleSwingEnv()
+    if name == "lalo":
+        from .lalo import LaloeEnv
+        return LaloeEnv()
     else:
         raise RuntimeError("Unkonwn environment: " + name)

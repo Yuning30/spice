@@ -1,0 +1,291 @@
+Arguments:
+Namespace(alpha=0.2, automatic_entropy_tuning=False, batch_size=256, cuda=False, env_name='mid_obstacle', episode=300, eval=True, gamma=0.99, hidden_size=256, horizon=5, lr=0.0003, neural_safety=False, neural_threshold=0.1, num_steps=10000000, policy='Gaussian', replay_size=1000000, seed=4, start_steps=1200, target_update_interval=1, tau=0.005, updates_per_step=1)
+1 : Real data
+Episode: 1, total numsteps: 200, episode steps: 200, reward: -1947.72
+2 : Real data
+Episode: 2, total numsteps: 400, episode steps: 200, reward: -3808.23
+3 : Real data
+Episode: 3, total numsteps: 600, episode steps: 200, reward: -2857.38
+4 : Real data
+Episode: 4, total numsteps: 800, episode steps: 200, reward: -3685.27
+5 : Real data
+Episode: 5, total numsteps: 1000, episode steps: 200, reward: -2659.45
+6 : Real data
+Episode: 6, total numsteps: 1200, episode steps: 200, reward: -3946.94
+7 : Real data
+Episode: 7, total numsteps: 1400, episode steps: 200, reward: -3797.44
+8 : Real data
+Episode: 8, total numsteps: 1600, episode steps: 200, reward: -3884.74
+9 : Real data
+State stats: [0.1919592  0.63712029 0.04918825 0.16349973] [0.96619426 1.21106837 0.36066333 0.37991669]
+Action stats: [0.00671064 0.01182764] [0.51979613 0.5245002 ]
+Reward stats: -20.05225974738012 12.752288443494747
+Computed error: 0.1503032670717383 ( 0.12241161896744934 0.02789164810428896 )
+Epoch: 0 tensor(0.0094)
+Epoch: 1 tensor(0.0070)
+Epoch: 2 tensor(0.0047)
+Epoch: 3 tensor(0.0032)
+Epoch: 4 tensor(0.0022)
+Epoch: 5 tensor(0.0016)
+Epoch: 6 tensor(0.0012)
+Epoch: 7 tensor(0.0009)
+Epoch: 8 tensor(0.0007)
+Epoch: 9 tensor(0.0006)
+Epoch: 10 tensor(0.0005)
+Epoch: 11 tensor(0.0004)
+Epoch: 12 tensor(0.0004)
+Epoch: 13 tensor(0.0003)
+Epoch: 14 tensor(0.0003)
+Epoch: 15 tensor(0.0003)
+Epoch: 16 tensor(0.0003)
+Epoch: 17 tensor(0.0003)
+Epoch: 18 tensor(0.0002)
+Epoch: 19 tensor(0.0002)
+Epoch: 20 tensor(0.0002)
+Epoch: 21 tensor(0.0002)
+Epoch: 22 tensor(0.0002)
+Epoch: 23 tensor(0.0002)
+Epoch: 24 tensor(0.0002)
+Epoch: 25 tensor(0.0002)
+Epoch: 26 tensor(0.0002)
+Epoch: 27 tensor(0.0002)
+Epoch: 28 tensor(0.0002)
+Epoch: 29 tensor(0.0002)
+Epoch: 30 tensor(0.0002)
+Epoch: 31 tensor(0.0002)
+Epoch: 32 tensor(0.0002)
+Epoch: 33 tensor(0.0002)
+Epoch: 34 tensor(0.0002)
+Epoch: 35 tensor(0.0002)
+Epoch: 36 tensor(0.0001)
+Epoch: 37 tensor(0.0001)
+Epoch: 38 tensor(0.0001)
+Epoch: 39 tensor(0.0001)
+Epoch: 40 tensor(0.0001)
+Epoch: 41 tensor(0.0001)
+Epoch: 42 tensor(0.0001)
+Epoch: 43 tensor(0.0001)
+Epoch: 44 tensor(0.0001)
+Epoch: 45 tensor(0.0001)
+Epoch: 46 tensor(0.0001)
+Epoch: 47 tensor(0.0001)
+Epoch: 48 tensor(0.0001)
+Epoch: 49 tensor(0.0001)
+Epoch: 50 tensor(0.0001)
+Epoch: 51 tensor(0.0001)
+Epoch: 52 tensor(0.0001)
+Epoch: 53 tensor(0.0001)
+Epoch: 54 tensor(0.0001)
+Epoch: 55 tensor(0.0001)
+Epoch: 56 tensor(0.0001)
+Epoch: 57 tensor(0.0001)
+Epoch: 58 tensor(0.0001)
+Epoch: 59 tensor(0.0001)
+Epoch: 60 tensor(0.0001)
+Epoch: 61 tensor(0.0001)
+Epoch: 62 tensor(0.0001)
+Epoch: 63 tensor(0.0001)
+Epoch: 64 tensor(0.0001)
+Epoch: 65 tensor(0.0001)
+Epoch: 66 tensor(0.0001)
+Epoch: 67 tensor(0.0001)
+Epoch: 68 tensor(0.0001)
+Epoch: 69 tensor(0.0001)
+Epoch: 70 tensor(0.0001)
+Epoch: 71 tensor(0.0001)
+Epoch: 72 tensor(0.0001)
+Epoch: 73 tensor(0.0001)
+Epoch: 74 tensor(0.0001)
+Epoch: 75 tensor(0.0001)
+Epoch: 76 tensor(9.9842e-05)
+Epoch: 77 tensor(9.9503e-05)
+Epoch: 78 tensor(9.8941e-05)
+Epoch: 79 tensor(9.8519e-05)
+Epoch: 80 tensor(9.8101e-05)
+Epoch: 81 tensor(9.7266e-05)
+Epoch: 82 tensor(9.6682e-05)
+Epoch: 83 tensor(9.6283e-05)
+Epoch: 84 tensor(9.6064e-05)
+Epoch: 85 tensor(9.5502e-05)
+Epoch: 86 tensor(9.4904e-05)
+Epoch: 87 tensor(9.4826e-05)
+Epoch: 88 tensor(9.4107e-05)
+Epoch: 89 tensor(9.3761e-05)
+Epoch: 90 tensor(9.3235e-05)
+Epoch: 91 tensor(9.3007e-05)
+Epoch: 92 tensor(9.2709e-05)
+Epoch: 93 tensor(9.2295e-05)
+Epoch: 94 tensor(9.1825e-05)
+Epoch: 95 tensor(9.2027e-05)
+Epoch: 96 tensor(9.1144e-05)
+Epoch: 97 tensor(9.0822e-05)
+Epoch: 98 tensor(9.0648e-05)
+Epoch: 99 tensor(8.9937e-05)
+Epoch: 0 tensor(0.4626)
+Epoch: 1 tensor(0.4477)
+Epoch: 2 tensor(0.4330)
+Epoch: 3 tensor(0.4185)
+Epoch: 4 tensor(0.4044)
+Epoch: 5 tensor(0.3894)
+Epoch: 6 tensor(0.3758)
+Epoch: 7 tensor(0.3622)
+Epoch: 8 tensor(0.3509)
+Epoch: 9 tensor(0.3403)
+Epoch: 10 tensor(0.3311)
+Epoch: 11 tensor(0.3237)
+Epoch: 12 tensor(0.3186)
+Epoch: 13 tensor(0.3130)
+Epoch: 14 tensor(0.3084)
+Epoch: 15 tensor(0.3061)
+Epoch: 16 tensor(0.3037)
+Epoch: 17 tensor(0.3002)
+Epoch: 18 tensor(0.2996)
+Epoch: 19 tensor(0.2979)
+Epoch: 20 tensor(0.2976)
+Epoch: 21 tensor(0.2965)
+Epoch: 22 tensor(0.2962)
+Epoch: 23 tensor(0.2956)
+Epoch: 24 tensor(0.2961)
+Epoch: 25 tensor(0.2945)
+Epoch: 26 tensor(0.2943)
+Epoch: 27 tensor(0.2946)
+Epoch: 28 tensor(0.2942)
+Epoch: 29 tensor(0.2934)
+Epoch: 30 tensor(0.2937)
+Epoch: 31 tensor(0.2935)
+Epoch: 32 tensor(0.2933)
+Epoch: 33 tensor(0.2928)
+Epoch: 34 tensor(0.2926)
+Epoch: 35 tensor(0.2937)
+Epoch: 36 tensor(0.2919)
+Epoch: 37 tensor(0.2912)
+Epoch: 38 tensor(0.2918)
+Epoch: 39 tensor(0.2917)
+Epoch: 40 tensor(0.2913)
+Epoch: 41 tensor(0.2900)
+Epoch: 42 tensor(0.2901)
+Epoch: 43 tensor(0.2914)
+Epoch: 44 tensor(0.2899)
+Epoch: 45 tensor(0.2890)
+Epoch: 46 tensor(0.2896)
+Epoch: 47 tensor(0.2888)
+Epoch: 48 tensor(0.2895)
+Epoch: 49 tensor(0.2883)
+Epoch: 50 tensor(0.2880)
+Epoch: 51 tensor(0.2879)
+Epoch: 52 tensor(0.2871)
+Epoch: 53 tensor(0.2877)
+Epoch: 54 tensor(0.2874)
+Epoch: 55 tensor(0.2862)
+Epoch: 56 tensor(0.2861)
+Epoch: 57 tensor(0.2864)
+Epoch: 58 tensor(0.2857)
+Epoch: 59 tensor(0.2855)
+Epoch: 60 tensor(0.2846)
+Epoch: 61 tensor(0.2845)
+Epoch: 62 tensor(0.2842)
+Epoch: 63 tensor(0.2850)
+Epoch: 64 tensor(0.2843)
+Epoch: 65 tensor(0.2842)
+Epoch: 66 tensor(0.2836)
+Epoch: 67 tensor(0.2836)
+Epoch: 68 tensor(0.2828)
+Epoch: 69 tensor(0.2817)
+Epoch: 70 tensor(0.2821)
+Epoch: 71 tensor(0.2819)
+Epoch: 72 tensor(0.2815)
+Epoch: 73 tensor(0.2812)
+Epoch: 74 tensor(0.2812)
+Epoch: 75 tensor(0.2804)
+Epoch: 76 tensor(0.2807)
+Epoch: 77 tensor(0.2801)
+Epoch: 78 tensor(0.2787)
+Epoch: 79 tensor(0.2788)
+Epoch: 80 tensor(0.2781)
+Epoch: 81 tensor(0.2778)
+Epoch: 82 tensor(0.2786)
+Epoch: 83 tensor(0.2776)
+Epoch: 84 tensor(0.2774)
+Epoch: 85 tensor(0.2775)
+Epoch: 86 tensor(0.2773)
+Epoch: 87 tensor(0.2757)
+Epoch: 88 tensor(0.2760)
+Epoch: 89 tensor(0.2761)
+Epoch: 90 tensor(0.2747)
+Epoch: 91 tensor(0.2749)
+Epoch: 92 tensor(0.2748)
+Epoch: 93 tensor(0.2738)
+Epoch: 94 tensor(0.2738)
+Epoch: 95 tensor(0.2734)
+Epoch: 96 tensor(0.2734)
+Epoch: 97 tensor(0.2722)
+Epoch: 98 tensor(0.2725)
+Epoch: 99 tensor(0.2724)
+Earth Model
+------------------------------------------------------------------------------------
+Basis Function  Pruned  Coefficient 0  Coefficient 1  Coefficient 2  Coefficient 3  
+------------------------------------------------------------------------------------
+(Intercept)     No      2.93013        0.38621        0.558081       1.11387        
+h(x2-0.638239)  No      0.0149313      -1.81799e-15   1              0.000559264    
+h(0.638239-x2)  No      -0.0149313     2.49453e-15    -1             0.00104629     
+h(x3-1.09387)   No      2.13024e-15    0.0125482      -3.40185e-10   1.01514        
+h(1.09387-x3)   No      -9.71445e-16   -0.0125482     -4.12274e-11   -1.01445       
+h(x0-2.91857)   No      1              -7.86263e-16   6.1485e-10     -0.0139821     
+h(2.91857-x0)   No      -1             2.04003e-15    -9.73909e-11   -0.00228778    
+h(x1-0.367084)  No      -1.29063e-15   1              3.0179e-10     -0.00989209    
+h(0.367084-x1)  No      -1.58207e-15   -1             -1.06988e-11   0.0144353      
+h(x4+1.40337)   No      -1.38778e-15   1.73472e-15    0.0576489      -0.00197264    
+h(-1.40337-x4)  No      3.36536e-16    1.60354e-16    -0.0576489     -0.0285722     
+------------------------------------------------------------------------------------
+MSE: 0.0007, GCV: 0.0008, RSQ: 0.9993, GRSQ: 0.9993
+Basis:
+1.0
+h(x2 - 0.6382393267165216)
+h(0.6382393267165216 - x2)
+h(x3 - 1.0938654562277201)
+h(1.0938654562277201 - x3)
+h(x0 - 2.9185658425842176)
+h(2.9185658425842176 - x0)
+h(x1 - 0.3670841494611661)
+h(0.3670841494611661 - x1)
+h(x4 - -1.4033719301223755)
+h(-1.4033719301223755 - x4)
+Coeffs:
+[[2.930131954662827, 0.014931296880296707, -0.014931296880297817, 2.130240428499519e-15, -9.71445146547012e-16, 1.0000000000000004, -1.0000000000000024, -1.2906342661267445e-15, -1.582067810090848e-15, -1.3877787807814457e-15, 3.365363543395006e-16], [0.3862103189008983, -1.817990202823694e-15, 2.4945323584546486e-15, 0.012548150026250456, -0.012548150026248012, -7.862634154864878e-16, 2.040034807748725e-15, 1.0000000000000002, -0.9999999999999991, 1.734723475976807e-15, 1.603535013106061e-16], [0.5580807317559198, 0.9999999996476328, -0.9999999999978806, -3.4018506761546163e-10, -4.122741037448918e-11, 6.148499626101867e-10, -9.739087314386552e-11, 3.017901484270169e-10, -1.0698830710254015e-11, 0.05764890236534548, -0.05764890185567072], [1.1138654431275883, 0.0005592635206035923, 0.0010462928738659422, 1.0151392505759285, -1.0144517246028026, -0.013982125124765345, -0.0022877800732307163, -0.009892094648558914, 0.014435272974414388, -0.0019726412042436747, -0.028572230398311124]]
+Model MSE: 0.0029502397800242534
+Earth Model
+--------------------------------------
+Basis Function   Pruned  Coefficient  
+--------------------------------------
+(Intercept)      No      -3.99568     
+h(x2-0.442839)   No      2.52395      
+h(0.442839-x2)   Yes     None         
+h(x3-1.48813)    No      -4.39943     
+h(1.48813-x3)    Yes     None         
+h(x2-0.964638)   No      -3.6574      
+h(0.964638-x2)   No      0.281249     
+h(x1+0.258741)   Yes     None         
+h(-0.258741-x1)  No      -1.10017     
+h(x4+0.254045)   No      0.197031     
+h(-0.254045-x4)  No      0.186469     
+h(x0-0.706015)   No      -1.54196     
+h(0.706015-x0)   No      0.489874     
+h(x3-0.782618)   No      2.01354      
+h(0.782618-x3)   No      0.571275     
+h(x1-0.83467)    No      1.2856       
+h(0.83467-x1)    No      0.309235     
+h(x3-0.0417213)  Yes     None         
+h(0.0417213-x3)  No      -1.06381     
+h(x0+1.85952)    No      1.51659      
+h(-1.85952-x0)   Yes     None         
+--------------------------------------
+MSE: 0.4469, GCV: 0.4590, RSQ: 0.5531, GRSQ: 0.5415
+Episode: 9, total numsteps: 1800, episode steps: 200, reward: -2515.89
+starting testing...
+Finished test episode: 0 shield and 200 neural
+Average time: 0.00481143832206726
+----------------------------------------
+Test Episodes: 1, Unsafe: 0, Avg. Length: 200.0, Avg. Reward: -4697.38
+----------------------------------------
+10 : Simulated data
+10 0 1800

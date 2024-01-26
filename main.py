@@ -53,6 +53,8 @@ parser.add_argument('--neural_safety', default=False, action='store_true',
                     help='Use a neural safety signal')
 parser.add_argument('--neural_threshold', type=float, default=0.1,
                     help='Safety threshold for the neural model')
+
+parser.add_argument('--episode', required=True, type=int)
 args = parser.parse_args()
 
 print("Arguments:")
@@ -86,7 +88,7 @@ total_episodes = 0
 cost_model = None
 
 for i_episode in itertools.count(1):
-    if i_episode > 400:
+    if i_episode > args.episode:
         break
     total_episodes = i_episode
     episode_reward = 0
@@ -174,6 +176,7 @@ for i_episode in itertools.count(1):
 
     else:
         print(i_episode, ": Simulated data")
+        corner = False
         while not done:
             if episode_steps % 100 == 0:
                 print(i_episode, episode_steps, total_numsteps)
@@ -208,8 +211,13 @@ for i_episode in itertools.count(1):
                 not np.all(np.abs(next_state) < 1e5)
 
             total_numsteps += 1
-
-            true_reward = env.true_reward(next_state)
+            
+            if next_state[0] >= 3 and next_state[1] >= 3:
+                corner = True
+            if args.env == "lalo":
+                true_reward = env.true_reward(next_state, action)
+            else:
+                true_reward = env.true_reward(next_state, corner)
             episode_reward += true_reward
 
             cost = 0
